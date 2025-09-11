@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9a83c80d80bf014a8ec394b91384952, type: 3}
+  m_Name: Narrator
+  characterName: Narrator
+  characterID: Narrator
+  neutralExpression: {fileID: 0}
+  happyExpression: {fileID: 0}
+  angryExpression: {fileID: 0}
+  characterDescription: "Omniscient narrator providing scene descriptions and context."
+  voiceGuidelines: "Descriptive and atmospheric. Sets the mood and provides context without being intrusive."
