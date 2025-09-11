@@ -1,0 +1,336 @@
+.background {
+    background-color: rgb(200, 200, 200);
+}
+
+.titleLbl {
+    font-size: 26px;
+    -unity-font-style: bold;
+    background-color: rgb(128, 80, 80);
+    color: rgb(233, 233, 233);
+}
+
+.unity-base-field__label {
+    min-width: 180px;
+}
+
+.unity-base-popup-field__input {
+    background-color: rgb(240, 240, 240);
+}
+
+.unity-object-field__input {
+    background-color: rgb(240, 240, 240);
+}
+
+.unity-object-field__selector {
+    background-color: rgb(207, 207, 207);
+}
+
+.unity-float-field__input {
+    background-color: rgb(240, 240, 240);
+}
+
+.setupBtn {
+    font-size: 14px;
+    -unity-font-style: bold;
+    background-color: rgb(129, 192, 104);
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+}
+
+.setupBtn:hover {
+    font-size: 14px;
+    -unity-font-style: bold;
+    background-color: rgb(120, 190, 92);
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+}
+
+.setupBtn:active {
+    font-size: 14px;
+    -unity-font-style: bold;
+    background-color: rgb(110, 195, 76);
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+}
+
+.addCategory {
+    background-color: rgb(168, 200, 150);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 1px;
+    border-bottom-width: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-top: 5px;
+    border-left-color: rgb(173, 173, 173);
+    border-right-color: rgb(173, 173, 173);
+    border-top-color: rgb(173, 173, 173);
+    border-bottom-color: rgb(173, 173, 173);
+    -unity-font-style: bold;
+}
+
+.addCategory:hover {
+    background-color: rgb(162, 204, 138);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 1px;
+    border-bottom-width: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-top: 5px;
+    border-left-color: rgb(173, 173, 173);
+    border-right-color: rgb(173, 173, 173);
+    border-top-color: rgb(173, 173, 173);
+    border-bottom-color: rgb(173, 173, 173);
+    -unity-font-style: bold;
+}
+
+.addCategory:active {
+    background-color: rgb(176, 209, 157);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 1px;
+    border-bottom-width: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-top: 5px;
+    border-left-color: rgb(173, 173, 173);
+    border-right-color: rgb(173, 173, 173);
+    border-top-color: rgb(173, 173, 173);
+    border-bottom-color: rgb(173, 173, 173);
+    -unity-font-style: bold;
+}
+
+.clearBtn {
+    -unity-font-style: bold;
+    font-size: 14px;
+    background-color: rgb(188, 130, 121);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.clearBtn:hover {
+    -unity-font-style: bold;
+    font-size: 14px;
+    background-color: rgb(183, 113, 103);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.clearBtn:active {
+    -unity-font-style: bold;
+    font-size: 14px;
+    background-color: rgb(217, 108, 91);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.pageBtn {
+    -unity-font-style: bold;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: rgb(214, 214, 214);
+}
+
+.pageBtn:hover {
+    -unity-font-style: bold;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: rgb(190, 187, 187);
+}
+
+.pageBtn:active {
+    -unity-font-style: bold;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: rgb(178, 178, 178);
+}
+
+.loadBtn {
+    -unity-font-style: bold;
+    font-size: 14px;
+    background-color: rgb(164, 192, 146);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.loadBtn:hover {
+    -unity-font-style: bold;
+    font-size: 14px;
+    background-color: rgb(152, 192, 126);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.loadBtn:active {
+    -unity-font-style: bold;
+    font-size: 14px;
+    background-color: rgb(138, 202, 96);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.tooltip {
+    color: rgb(82, 82, 82);
+    margin-left: 6px;
+    margin-bottom: 6px;
+}
+
+.bottom {
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(192, 192, 192);
+    border-top-width: 1px;
+    border-top-color: rgb(154, 154, 154);
+    border-right-color: rgb(154, 154, 154);
+    border-left-color: rgb(154, 154, 154);
+    border-bottom-color: rgb(154, 154, 154);
+    border-bottom-width: 1px;
+    border-right-width: 0;
+    border-left-width: 0;
+    min-height: 35px;
+}
+
+.title_lbl {
+    font-size: 16px;
+    -unity-font-style: bold;
+    color: rgb(14, 14, 14);
+    margin-top: 28px;
+}
+
+.title_lbl2 {
+    font-size: 16px;
+    -unity-font-style: bold;
+    color: rgb(9, 9, 9);
+}
+
+.tab_btn {
+    flex-grow: 1;
+    background-color: rgb(228, 228, 228);
+}
+
+.tab_btn:hover {
+    flex-grow: 1;
+    background-color: rgb(212, 212, 212);
+}
+
+.tab_btn:active {
+    flex-grow: 1;
+    background-color: rgb(202, 202, 202);
+}
+
+.tab_btn_selected {
+    flex-grow: 1;
+    background-color: rgb(199, 199, 199);
+    -unity-font-style: bold;
+}

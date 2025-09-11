@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f75ffb5f7e3a8514c9b2de2ec1cdd066
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Demo/Animations/Background.controller
+  uploadId: 763440

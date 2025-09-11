@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b9ce6f0c514b87c42bb73bbd67c23a48
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Scripts/Inspector Note/NoteAttribute.cs
+  uploadId: 763440

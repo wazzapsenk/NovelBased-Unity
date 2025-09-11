@@ -1,0 +1,38 @@
+/* VISUAL ELEMENTS */
+
+Toolbar {
+    align-self: flex-end;
+    background-color: #1D1D1E;
+    height: 35px;
+    padding-right: 10px;
+    padding-left: 10px;
+    max-width: none;
+}
+
+
+Button {
+    background-color: #252729;
+    border-color: #1D1D1E;
+    margin: 4px;
+    max-height: 35px;
+    font-size: 14px;
+}
+
+Button:hover {
+    background-color: #393a38;
+}
+
+Button:active {
+    background-color: #222223;
+    color: #FDD057;
+}
+
+TextField:focus > .unity-text-field__label {
+    color: #FDD057;
+}
+
+.ide-toolbar__button__selected {
+    color: #FDD057;
+    -unity-font-style: bold ;
+    font-size: 16px;
+}

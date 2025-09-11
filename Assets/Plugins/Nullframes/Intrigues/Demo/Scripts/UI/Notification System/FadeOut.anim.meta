@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84906ee601c198c4f890b51564f747f7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Demo/Scripts/UI/Notification System/FadeOut.anim
+  uploadId: 763440

@@ -1,0 +1,218 @@
+-----------------------
+LICENSING INFORMATION
+-----------------------
+
+======= Icons Licensed under Apache 2.0 =======
+--- Apache 2.0 License Link ---
+http://www.apache.org/licenses/LICENSE-2.0
+--
+Bread Icon by MingCute Design
+https://github.com/Richard9394/MingCute
+
+Castle Icon by Google
+https://github.com/google/material-design-icons
+
+Dagger Icon by Pictogrammers
+https://github.com/Templarian/MaterialDesign
+
+Seedling(Growing-Plant) Icon by Google Inc.
+https://github.com/googlefonts/noto-emoji
+
+Fire Icon by Pictogrammers
+https://github.com/Templarian/MaterialDesign
+
+Grave Icon by Pictogrammers
+https://github.com/Templarian/MaterialDesign
+
+Handshake Icon by Google
+https://github.com/google/material-design-icons
+
+Hide Icon by Pictogrammers
+https://github.com/Templarian/MaterialDesign
+
+Search(Intel) Icon by MingCute Design
+https://github.com/Richard9394/MingCute
+
+Paper Icon by Remix Design
+https://github.com/Remix-Design/RemixIcon
+
+Wait(Time) Icon by ByteDance
+https://github.com/bytedance/IconPark
+
+Rank Icon(General) by Skoll(GameIcons)
+https://game-icons.net/1x1/skoll/rank-3.html
+
+Allied Star(Royalist) Icon by Skoll(GameIcons)
+https://game-icons.net/1x1/skoll/allied-star.html
+
+Spanner(Engineer) Icon by Pictogrammers
+https://github.com/Templarian/MaterialDesign
+
+Chest Icon by Pictogrammers
+https://github.com/Templarian/MaterialDesign
+
+
+
+--------------------------------------
+
+
+
+======= Icons Licensed under CC BY 3.0 =======
+--- CC BY 3.0 License Link ---
+https://creativecommons.org/licenses/by/3.0/
+--- GameIcons License Link ---
+https://github.com/material-icons/material-icons/blob/master/LICENSE
+--
+Backstab Icon by Lorc(GameIcons)
+https://game-icons.net/1x1/lorc/backstab.html
+
+Punch Icon by Lorc(GameIcons)
+https://game-icons.net/1x1/lorc/punch-blast.html
+
+Pipe Icon by Delapouite(GameIcons)
+https://github.com/game-icons/icons/blob/master/license.txt
+
+Tied-Scroll(Achieve) Icon by Lorc(GameIcons)
+https://game-icons.net/1x1/lorc/tied-scroll.html
+
+Gold-Bar Icon by Willdabeast(GameIcons)
+https://game-icons.net/1x1/willdabeast/gold-bar.html
+
+Leader Icon by Skoll(GameIcons)
+https://game-icons.net/1x1/skoll/chess-king.html
+
+Knight Icon by Skoll(GameIcons)
+https://game-icons.net/1x1/skoll/chess-knight.html
+
+Drama-Masks(Scheme Power) Icon by Lorc(GameIcons)
+https://game-icons.net/1x1/lorc/drama-masks.html
+
+Duality Mask(Spy) Icon by Lorc(GameIcons)
+https://game-icons.net/1x1/lorc/duality-mask.html
+
+
+
+--------------------------------------
+
+
+
+======= Icons Licensed under MIT =======
+--- MIT License Link ---
+https://opensource.org/licenses/MIT
+--
+
+People-Swap Icon by Microsoft Corporation
+https://github.com/microsoft/fluentui-system-icons
+
+Gold Icon by HeskeyBaozi
+https://github.com/ant-design/ant-design-icons
+
+Couple(Monogamous) Icon by Luca Burgio
+https://github.com/iconoir-icons/iconoir
+
+Poison Icon by Resolve to Save Lives
+https://github.com/resolvetosavelives/healthicons
+
+Mask Icon by Phosphor Icons
+https://github.com/phosphor-icons/core
+
+Next Icon by Microsoft Corporation
+https://github.com/microsoft/fluentui-system-icons
+
+Poison Icon by Resolve to Save Lives
+https://github.com/resolvetosavelives/healthicons
+
+Refresh Icon by Steve Schoger
+https://github.com/dukestreetstudio/zondicons
+
+Sneaky Icon by Phosphor Icons
+https://github.com/phosphor-icons/core
+
+Swap Icon by TDesign
+https://github.com/Tencent/tdesign-icons
+
+Tutorial(Read) Icon by Phosphor Icons
+https://github.com/phosphor-icons/core
+
+Unlock Icon by Akveo
+https://github.com/akveo/eva-icons/
+
+White Flag Icon by Microsoft Corporation
+https://github.com/microsoft/fluentui-system-icons
+
+Couple(Monogamous) Icon by Luca Burgio
+https://github.com/iconoir-icons/iconoir
+
+Doctor Icon by Microsoft Corporation
+https://github.com/microsoft/fluentui-system-icons
+
+
+
+--------------------------------------
+
+
+
+======= Icon Licensed under CC0 1.0 =======
+--- CC0 1.0 License Link ---
+https://creativecommons.org/publicdomain/zero/1.0/
+--
+
+Alchemy & Alchemy-Glow Icon by Simple Icons Collaborators
+https://github.com/simple-icons/simple-icons
+
+
+
+--------------------------------------
+
+
+
+======= Icon Licensed under Open Font License =======
+--- Open Font License Link ---
+https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+--
+
+Health Icon by Scott de Jonge
+https://github.com/scottdejonge/map-icons
+
+
+
+--------------------------------------
+
+
+
+--- Icons Licensed under CC BY 4.0 ---
+CC BY 4.0 License Link:
+https://creativecommons.org/licenses/by/4.0/
+--
+
+Letter Icon by 480 Design
+https://github.com/480-Design/Solar-Icon-Set
+
+Rumor(Speak) Icon by 480 Design
+https://github.com/480-Design/Solar-Icon-Set
+
+
+
+--------------------------------------
+
+
+
+--- Fonts Licensed under Open Font Licence ---
+Open Font Licence Link:
+https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+--
+
+Cantarell by Dave Crossland
+https://fonts.google.com/specimen/Cantarell
+
+Faustina by Omnibus-Type
+https://fonts.google.com/specimen/Faustina
+
+IM Fell English SC by Igino Marini
+https://fonts.google.com/specimen/IM+Fell+English+SC
+
+Roboto by Christian Robertson
+https://fonts.google.com/specimen/Roboto
+
+Source Serif Pro by Frank Grießhammer from Adobe Originals
+https://fonts.adobe.com/fonts/source-serif

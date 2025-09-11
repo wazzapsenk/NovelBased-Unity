@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 467093c835396274faa0863495628c3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Scripts/Clan/Role/HeirFilter.cs
+  uploadId: 763440

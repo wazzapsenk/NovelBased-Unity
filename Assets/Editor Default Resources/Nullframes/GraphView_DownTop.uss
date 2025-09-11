@@ -1,0 +1,98 @@
+/* VISUAL ELEMENTS */
+
+.root {
+    padding: 20px;
+    padding-right: 0;
+    flex-grow: 1;
+    flex-direction: column-reverse;
+}
+
+.field {
+    padding: 5px;
+    flex-shrink: 0;
+}
+
+.missionField {
+    padding: 10px;
+    background-color: #171717;
+    width: 400px;
+    height: 400px;
+}
+
+.ide-node__label {
+    padding: 11px;
+    white-space: normal;
+    -unity-font-style: bold;
+    max-width: 120px;
+    min-width: 85px;
+}
+
+Button {
+    background-color: #40463F;
+    padding: 15px;
+    margin: 10px;
+    margin-right: 0;
+    -unity-font-style: bold;
+    max-width: 300px;
+    font-size: 14px;
+    border-color: #373737;
+}
+
+Button:hover {
+    background-color: #495446;
+}
+
+Button:active {
+    background-color: #40463F;
+}
+
+.removeBtn {
+    background-color: #463f3f;
+}
+
+.removeBtn:hover {
+    background-color: #544646;
+}
+
+.removeBtn:active {
+    background-color: #463f3f;
+}
+
+.exportXml {
+    background-color: #46443F;
+}
+
+.exportXml:hover {
+    background-color: #4f4d45;
+}
+
+.exportXml:active {
+    background-color: #46443F;
+}
+
+.importXml {
+    background-color: #43463f;
+}
+
+.importXml:hover {
+    background-color: #4a4d43;
+}
+
+.importXml:active {
+    background-color: #43463f;
+}
+
+DropdownField {
+    opacity: 0.6;
+    background-color: rgba(0, 0, 0, 255);
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: rgba(55, 55, 55, 255);
+    -unity-font-style: bold;
+    font-size: 16px;
+    min-height: 30px;
+    width: 200px;
+    flex-direction: column;
+    margin: 5px;
+    flex-shrink: 1;
+}

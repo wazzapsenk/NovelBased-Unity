@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cd934c3ea13a0714691803f1cce8d535
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Demo/Scripts/DemoMenu.cs
+  uploadId: 763440

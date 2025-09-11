@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 81692833a25965142886bef29a3cfa90
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Scripts/Intrigue System UI/Tooltip
+    System/ChoiceTooltipDemo.cs
+  uploadId: 763440

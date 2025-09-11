@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2303a15eb8b286344b09fd9cb0035e98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Scripts/IE Graph/Ruler.cs
+  uploadId: 763440

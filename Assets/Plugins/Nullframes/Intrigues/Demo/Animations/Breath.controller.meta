@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16a6d9cb3fe180f44b89a9a9bd24ee91
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Demo/Animations/Breath.controller
+  uploadId: 763440

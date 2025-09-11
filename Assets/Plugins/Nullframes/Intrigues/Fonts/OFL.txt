@@ -1,0 +1,23 @@
+-----------------------
+LICENSING INFORMATION
+-----------------------
+
+--- Fonts Licensed under Open Font Licence ---
+Open Font Licence Link:
+https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+--
+
+Cantarell by Dave Crossland
+https://fonts.google.com/specimen/Cantarell
+
+Faustina by Omnibus-Type
+https://fonts.google.com/specimen/Faustina
+
+IM Fell English SC by Igino Marini
+https://fonts.google.com/specimen/IM+Fell+English+SC
+
+Roboto by Christian Robertson
+https://fonts.google.com/specimen/Roboto
+
+Source Serif Pro by Frank Grießhammer from Adobe Originals
+https://fonts.adobe.com/fonts/source-serif

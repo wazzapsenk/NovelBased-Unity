@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a4b54464eda5d104f9a02bfc81772096
+timeCreated: 1660855669
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Scripts/Editor/IE Graph/Nodes/SkipSequencerNode.cs
+  uploadId: 763440

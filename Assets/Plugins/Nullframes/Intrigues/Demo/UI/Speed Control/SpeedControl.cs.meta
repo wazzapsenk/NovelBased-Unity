@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dc5e2be8d3a9d344ea126f921e0c146e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Demo/UI/Speed Control/SpeedControl.cs
+  uploadId: 763440

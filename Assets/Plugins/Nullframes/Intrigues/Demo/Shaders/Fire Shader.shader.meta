@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3e0ee3563748aa24baf00fa5ecd8dd92
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Demo/Shaders/Fire Shader.shader
+  uploadId: 763440

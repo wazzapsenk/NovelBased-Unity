@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 791884b862b701d418766373f3cd4579
+timeCreated: 1660733294
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Scripts/Editor/IE Graph/Nodes/Rule/GetPolicyRuleNode.cs
+  uploadId: 763440

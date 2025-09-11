@@ -1,0 +1,16 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement name="titleContainer" class="titleContainer" style="max-height: 200px; min-height: auto; flex-grow: 1; justify-content: center; flex-direction: row; border-bottom-width: 1px; border-bottom-color: rgb(171, 171, 171); border-top-color: rgb(171, 171, 171); border-top-width: 1px; border-left-color: rgb(171, 171, 171); border-right-color: rgb(171, 171, 171); border-left-width: 0; border-right-width: 0;">
+        <ui:VisualElement style="justify-content: center;">
+            <ui:VisualElement name="titleTexture" class="titleTexture" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement style="flex-grow: 1; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 15px;">
+        <ui:Label text="Localisation Keys" display-tooltip-when-elided="true" class="title-field" />
+        <ui:VisualElement class="box-field">
+            <ui:VisualElement class="align-field" style="flex-direction: row;">
+                <ui:Label text="Display Text" display-tooltip-when-elided="true" style="font-size: 14px; -unity-font-style: bold; width: 120px; min-width: 120px;" />
+                <ui:DropdownField index="-1" choices="System.Collections.Generic.List`1[System.String]" name="keyDropdown" class="inspector-keys-dropdown-field" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

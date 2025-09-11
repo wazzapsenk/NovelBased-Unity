@@ -1,0 +1,1 @@
+namespace Nullframes.Intrigues.UI { public abstract class IIEditor : UnityEngine.MonoBehaviour { } }

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c9840a88e7d2474ab5c4291e46356906
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ieDatabase: {fileID: 11400000, guid: b7f9d163deb031440b48c288f99b06bc, type: 2}
+  - dialogueManager: {fileID: 4729083334247834830, guid: 4fb5ff85060fff246810229749ea053e,
+      type: 3}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 96aa91d3dd6fce04b9ed162a8c34b4c6, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Scripts/IntrigueManager.cs
+  uploadId: 763440

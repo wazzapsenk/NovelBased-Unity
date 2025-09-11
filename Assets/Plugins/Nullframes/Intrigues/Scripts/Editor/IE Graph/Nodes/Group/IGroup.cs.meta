@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 163530cbe4b182141925e53cfcbbbd4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Scripts/Editor/IE Graph/Nodes/Group/IGroup.cs
+  uploadId: 763440

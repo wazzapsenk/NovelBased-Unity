@@ -1,0 +1,4292 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 965e56bf7fa34fea80da0cb7c1ea03ad, type: 3}
+  m_Name: Example
+  m_EditorClassIdentifier: 
+  Groups:
+  - rid: 3094817428851916847
+  - rid: 3094817428851916857
+  - rid: 8467773771613209032
+  - rid: 3094817434205946375
+  - rid: 3094817434205946457
+  Nodes:
+  - rid: 8467773906436489237
+  - rid: 8467773906436489239
+  - rid: 8467773906436489240
+  - rid: 3094817428851916820
+  - rid: 3094817428851916831
+  - rid: 3094817428851916834
+  - rid: 3094817428851916846
+  - rid: 3094817428851916850
+  - rid: 3094817428851916908
+  - rid: 3094817428851917185
+  - rid: 2335598176633139
+  - rid: 3094817428851917229
+  - rid: 3094817430733324561
+  - rid: 3094817428851917262
+  - rid: 3094817430733324999
+  - rid: 3094817430733325000
+  - rid: 3094817430733325001
+  - rid: 3094817610656646035
+  - rid: 3094817430733325003
+  - rid: 3094817610656646036
+  - rid: 3094817610656646037
+  - rid: 3094817610656646038
+  - rid: 3094817610656646043
+  - rid: 3094817434205946151
+  - rid: 3094817436362080334
+  - rid: 3094817436362080329
+  - rid: 3094817428851917256
+  - rid: 3094817430733325008
+  - rid: 3094817430733325009
+  - rid: 3094817430733325010
+  - rid: 3094817430733325011
+  - rid: 3094817430733325012
+  - rid: 3094817430733325013
+  - rid: 3094817430733325014
+  - rid: 3094817430733325015
+  - rid: 3094817430733325016
+  - rid: 3094817430733325017
+  - rid: 3094817430733325018
+  - rid: 3094817430733325019
+  - rid: 3094817430733325020
+  - rid: 3094817610656645908
+  - rid: 3094817610656645909
+  - rid: 3094817610656645910
+  - rid: 3094817610656645911
+  - rid: 3094817610656645912
+  - rid: 3094817610656645913
+  - rid: 3094817610656645914
+  - rid: 3094817610656645915
+  - rid: 3094817610656645916
+  - rid: 3094817610656645917
+  - rid: 3094817610656645918
+  - rid: 3094817610656645919
+  - rid: 3094817610656645920
+  - rid: 3094817610656645921
+  - rid: 3094817610656645922
+  - rid: 3094817610656645923
+  - rid: 3094817610656645924
+  - rid: 3094817610656645925
+  - rid: 3094817610656645926
+  - rid: 3094817610656645927
+  - rid: 3094817610656645928
+  - rid: 3094817610656645929
+  - rid: 3094817610656645930
+  - rid: 3094817610656645931
+  - rid: 3094817610656645932
+  - rid: 3094817610656645933
+  - rid: 3094817610656645934
+  - rid: 3094817430733325082
+  - rid: 3094817430733325084
+  - rid: 3094817610656645877
+  - rid: 3094817434205946246
+  - rid: 3094817434205946363
+  - rid: 3094817434205946364
+  - rid: 3094817434205946365
+  - rid: 3094817434205946366
+  - rid: 3094817434205945953
+  - rid: 3094817434205946458
+  - rid: 3094817434205945972
+  - rid: 2335626547167234
+  - rid: 2335626547167235
+  - rid: 3094817434205946058
+  - rid: 3094817434205946367
+  - rid: 6353874377492922369
+  - rid: 6353874377492922370
+  - rid: 8467773771613208579
+  - rid: 3094817434205946352
+  - rid: 3094817434205946376
+  - rid: 3094817434205946406
+  - rid: 3094817610656645905
+  - rid: 8467773771613208747
+  - rid: 3094817434205946433
+  - rid: 3094817436690809528
+  - rid: 6353874374738051073
+  - rid: 3094817436690809530
+  - rid: 3094817436690809531
+  - rid: 3094817436690809532
+  - rid: 3094817436690809533
+  - rid: 3094817436690809534
+  - rid: 3094817436690809535
+  - rid: 3094817436690809536
+  - rid: 3094817436690809537
+  - rid: 3094817436690809538
+  - rid: 3094817436690809539
+  - rid: 3094817436690809540
+  - rid: 3094817436690809541
+  - rid: 3094817436690809647
+  - rid: 3094817436690809542
+  - rid: 3094817436690809543
+  - rid: 3094817436690809544
+  - rid: 3094817436690809545
+  - rid: 3094817436690809546
+  - rid: 3094817436690809547
+  - rid: 3094817436690809548
+  - rid: 3094817436690809549
+  - rid: 3094817436690809550
+  - rid: 3094817436690809551
+  - rid: 3094817436690809552
+  - rid: 3094817436690809553
+  - rid: 3094817436690809554
+  - rid: 6353874377492922397
+  - rid: 3094817436690809556
+  - rid: 3094817436690809557
+  - rid: 6353874377492922392
+  - rid: 3094817436690809559
+  - rid: 6353874377492922393
+  - rid: 3094817436690809561
+  - rid: 3094817436690809562
+  - rid: 3094817436690809563
+  - rid: 3094817610656646045
+  - rid: 3094817436690809566
+  - rid: 3094817436690809567
+  - rid: 3094817436690809568
+  - rid: 3094817436690809569
+  - rid: 3094817436690809570
+  - rid: 6353874374738051074
+  - rid: 3094817436563407866
+  - rid: 3094817436690809572
+  - rid: 3094817436690809573
+  - rid: 3094817436690809574
+  - rid: 3094817436690809575
+  - rid: 3094817436690809576
+  - rid: 3094817436690809577
+  - rid: 3094817436690809578
+  - rid: 3094817436690809737
+  - rid: 3094817436690809580
+  - rid: 3094817436690809738
+  - rid: 6353874377492922371
+  - rid: 6353874377492922372
+  - rid: 3094817610656646015
+  - rid: 3094817610656646028
+  - rid: 3094817610656646121
+  - rid: 3094817610656646124
+  - rid: 3094817610656645985
+  - rid: 3094817610656646112
+  - rid: 3094817610656646099
+  - rid: 3094817610656646118
+  - rid: 3094817610656646133
+  - rid: 8467773906436489241
+  - rid: 6353874515275284481
+  - rid: 6353874515275284482
+  - rid: 8467773906436489242
+  - rid: 8467773906436489245
+  - rid: 8467773906436489247
+  - rid: 6353874515275284486
+  - rid: 8467773906436489250
+  - rid: 6353874515275284488
+  - rid: 8467773906436489254
+  - rid: 6353874515275284490
+  - rid: 8467773771613208969
+  - rid: 8467773771613208970
+  - rid: 2335598176633197
+  - rid: 2335598176633195
+  Variables:
+  - rid: 8467773771613208580
+  Schemes:
+  - <ID>k__BackingField: 6b43e596aea7c944c9ddc1e60b780bfc
+    <SchemeName>k__BackingField: Examples
+    <Icon>k__BackingField: {fileID: 21300000, guid: 8c2bf7cb11c0187479d5cdd2614f9c76, type: 3}
+    _description: Description
+    <CurrentObjective>k__BackingField: 
+    <RuleID>k__BackingField: 52513849e7d6cf1499b041a597913dfd
+    <HideIfNotCompatible>k__BackingField: 0
+    <TargetNotRequired>k__BackingField: 0
+    <HideOnUI>k__BackingField: 0
+  Cultures:
+  - maleNames:
+    - Aldarion
+    - Bramdun
+    - Cedriv
+    - Darnath
+    - Eldric
+    - Fendrel
+    - Gorath
+    - Haldor
+    - Ivarn
+    - Jorund
+    - Kaelum
+    - Lorindol
+    - Morthil
+    - Narvindor
+    - Orin
+    - Pendrake
+    - Quorin
+    - Rathgar
+    - Sarvion
+    - Tyrion
+    femaleNames:
+    - Ariwyn
+    - Bryseis
+    - Ceridwen
+    - Delyth
+    - Eirwyn
+    - Fayra
+    - Gwendolyn
+    - Hilareth
+    - Ilyana
+    - Jenara
+    - Kythaela
+    - Lysara
+    - Mirelle
+    - Nyssa
+    - Orielle
+    - Prydwyn
+    - Quinara
+    - Rosalind
+    - Sarielle
+    - Taliyah
+    _cultureName: Imperian
+    _description: Description
+    _icon: {fileID: 0}
+    <ID>k__BackingField: 8ff1a32ba62f01f4cb9a6afe48ab6116
+  - maleNames:
+    - Aldarion
+    - Bramdun
+    - Cedriv
+    - Darnath
+    - Eldric
+    - Fendrel
+    - Gorath
+    - Haldor
+    - Ivarn
+    - Jorund
+    - Kaelum
+    - Lorindol
+    - Morthil
+    - Narvindor
+    - Orin
+    - Pendrake
+    - Quorin
+    - Rathgar
+    - Sarvion
+    - Tyrion
+    femaleNames:
+    - Ariwyn
+    - Bryseis
+    - Ceridwen
+    - Delyth
+    - Eirwyn
+    - Fayra
+    - Gwendolyn
+    - Hilareth
+    - Ilyana
+    - Jenara
+    - Kythaela
+    - Lysara
+    - Mirelle
+    - Nyssa
+    - Orielle
+    - Prydwyn
+    - Quinara
+    - Rosalind
+    - Sarielle
+    - Taliyah
+    _cultureName: Respublican
+    _description: Description
+    _icon: {fileID: 0}
+    <ID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+  Policies:
+  - _policyName: Economy
+    _description: Description
+    <ID>k__BackingField: b9f44055372381c48be6b0812b61eb6d
+    <Icon>k__BackingField: {fileID: 21300000, guid: 4cc6e67e76ed2384e8dec43a01aef26e, type: 3}
+  Roles:
+  - _roleName: Leader
+    <ID>k__BackingField: 04c4e2e587aed124fb9522f90181a345
+    _description: 
+    _titleForMale: King
+    _titleForFemale: Queen
+    <FilterID>k__BackingField: 7aa8a43f22b6dd14a882c00897e0e635
+    <Capacity>k__BackingField: 1
+    <Inheritance>k__BackingField: 1
+    <Icon>k__BackingField: {fileID: 21300000, guid: 6df22436d7d20c745ae99955ea0cabd4, type: 3}
+    <Priority>k__BackingField: 100
+  Texts:
+    list:
+    - Key: en-GB
+      Value:
+        list: []
+  Actors:
+  - <ID>k__BackingField: a307ee03-6e7b-425f-83ec-d95d7238976d
+    <Name>k__BackingField: Darnath
+    <IsPlayer>k__BackingField: 1
+    <CurrentState>k__BackingField: 0
+    <Age>k__BackingField: 36
+    <CultureID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+    <Gender>k__BackingField: 0
+    <Portrait>k__BackingField: {fileID: 21300000, guid: 95b0a5bc57fd6b444aeb847fc9beaede, type: 3}
+  - <ID>k__BackingField: d9ffe687-a489-46a1-9fab-5d38352a80b1
+    <Name>k__BackingField: Burakor
+    <IsPlayer>k__BackingField: 0
+    <CurrentState>k__BackingField: 0
+    <Age>k__BackingField: 36
+    <CultureID>k__BackingField: 8ff1a32ba62f01f4cb9a6afe48ab6116
+    <Gender>k__BackingField: 0
+    <Portrait>k__BackingField: {fileID: 21300000, guid: 66eca9ddbd2fe104d8da95414918f190, type: 3}
+  - <ID>k__BackingField: c5c73a5e-9320-468d-aeb1-116c33484733
+    <Name>k__BackingField: Lorindol
+    <IsPlayer>k__BackingField: 0
+    <CurrentState>k__BackingField: 0
+    <Age>k__BackingField: 53
+    <CultureID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+    <Gender>k__BackingField: 0
+    <Portrait>k__BackingField: {fileID: 21300000, guid: ae30c77809ed013458d19d52262c07bd, type: 3}
+  - <ID>k__BackingField: 7db02f35-c94f-4851-8f9c-7548c5c715be
+    <Name>k__BackingField: Taylion
+    <IsPlayer>k__BackingField: 0
+    <CurrentState>k__BackingField: 0
+    <Age>k__BackingField: 44
+    <CultureID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+    <Gender>k__BackingField: 0
+    <Portrait>k__BackingField: {fileID: 21300000, guid: 3f77edb39405ba14b91fadabf5e79985, type: 3}
+  - <ID>k__BackingField: c8448007-923e-425e-9057-edb6a97d0758
+    <Name>k__BackingField: Burakor
+    <IsPlayer>k__BackingField: 0
+    <CurrentState>k__BackingField: 0
+    <Age>k__BackingField: 50
+    <CultureID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+    <Gender>k__BackingField: 0
+    <Portrait>k__BackingField: {fileID: 21300000, guid: 97d14f7a6eecf3440848f71e15ce5d70, type: 3}
+  - <ID>k__BackingField: 84f7965a-6790-4fe2-abb6-81411b6101fc
+    <Name>k__BackingField: Quorin
+    <IsPlayer>k__BackingField: 0
+    <CurrentState>k__BackingField: 0
+    <Age>k__BackingField: 51
+    <CultureID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+    <Gender>k__BackingField: 0
+    <Portrait>k__BackingField: {fileID: 21300000, guid: d3c5dd2519eab4e4cb389d5fba98d961, type: 3}
+  - <ID>k__BackingField: 3f9f2f93-831a-4c91-bfbf-95ca2acfdab8
+    <Name>k__BackingField: Pendrake
+    <IsPlayer>k__BackingField: 0
+    <CurrentState>k__BackingField: 0
+    <Age>k__BackingField: 48
+    <CultureID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+    <Gender>k__BackingField: 0
+    <Portrait>k__BackingField: {fileID: 21300000, guid: 2f9bf544cf9375a42b765ed01d234ea9, type: 3}
+  - <ID>k__BackingField: d7f8afe2-a176-4220-9e64-cc90d1ec912b
+    <Name>k__BackingField: Orin
+    <IsPlayer>k__BackingField: 0
+    <CurrentState>k__BackingField: 0
+    <Age>k__BackingField: 45
+    <CultureID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+    <Gender>k__BackingField: 0
+    <Portrait>k__BackingField: {fileID: 21300000, guid: 3873c0e36467d0741816ea3f776d3af3, type: 3}
+  - <ID>k__BackingField: 3db8d09d-625a-4cd9-be61-d0d0cd295512
+    <Name>k__BackingField: Taylion
+    <IsPlayer>k__BackingField: 0
+    <CurrentState>k__BackingField: 0
+    <Age>k__BackingField: 51
+    <CultureID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+    <Gender>k__BackingField: 0
+    <Portrait>k__BackingField: {fileID: 21300000, guid: 7a55d8edf3d18e4478dfcee207e5fe30, type: 3}
+  - <ID>k__BackingField: e8399605-bf10-4a0b-8680-2b738edb23fc
+    <Name>k__BackingField: Gorath
+    <IsPlayer>k__BackingField: 0
+    <CurrentState>k__BackingField: 0
+    <Age>k__BackingField: 59
+    <CultureID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+    <Gender>k__BackingField: 0
+    <Portrait>k__BackingField: {fileID: 21300000, guid: 1f9f19838b3c25348a6377b29ba8b081, type: 3}
+  - <ID>k__BackingField: ea9765de-af65-46ad-a0c1-591edf11545f
+    <Name>k__BackingField: Taylion
+    <IsPlayer>k__BackingField: 0
+    <CurrentState>k__BackingField: 0
+    <Age>k__BackingField: 62
+    <CultureID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+    <Gender>k__BackingField: 0
+    <Portrait>k__BackingField: {fileID: 21300000, guid: a52eddcab9a82b24eb8539bc3bb90720, type: 3}
+  - <ID>k__BackingField: ba4a1ff3-c311-41ca-9516-b4c42b9e7060
+    <Name>k__BackingField: Bramdun
+    <IsPlayer>k__BackingField: 0
+    <CurrentState>k__BackingField: 0
+    <Age>k__BackingField: 67
+    <CultureID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+    <Gender>k__BackingField: 0
+    <Portrait>k__BackingField: {fileID: 21300000, guid: 94c6191ba8e6dcb4eb2e86ff40ac3fcf, type: 3}
+  - <ID>k__BackingField: 8a807ca0-117b-4cf1-8b0a-19d79593bb4d
+    <Name>k__BackingField: Burakor
+    <IsPlayer>k__BackingField: 0
+    <CurrentState>k__BackingField: 0
+    <Age>k__BackingField: 84
+    <CultureID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+    <Gender>k__BackingField: 0
+    <Portrait>k__BackingField: {fileID: 21300000, guid: 2fe1bc542defba5499db5ab22040d493, type: 3}
+  AgeSuffixes:
+  - <Suffix>k__BackingField: baby
+    <MinValue>k__BackingField: 0
+    <MaxValue>k__BackingField: 3
+  - <Suffix>k__BackingField: child
+    <MinValue>k__BackingField: 4
+    <MaxValue>k__BackingField: 12
+  - <Suffix>k__BackingField: teen
+    <MinValue>k__BackingField: 13
+    <MaxValue>k__BackingField: 18
+  - <Suffix>k__BackingField: adult
+    <MinValue>k__BackingField: 19
+    <MaxValue>k__BackingField: 39
+  - <Suffix>k__BackingField: middleage
+    <MinValue>k__BackingField: 40
+    <MaxValue>k__BackingField: 54
+  - <Suffix>k__BackingField: old
+    <MinValue>k__BackingField: 55
+    <MaxValue>k__BackingField: 64
+  - <Suffix>k__BackingField: veryold
+    <MinValue>k__BackingField: 65
+    <MaxValue>k__BackingField: 90
+  references:
+    version: 2
+    RefIds:
+    - rid: 2335598176633052
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Null
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 2335598176633139
+      type: {class: DialogueData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 352c062429a2d8d4295c165b628100d4
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 2788, y: -659}
+        Title: Example
+        Content: 'Select:'
+        Break: 1
+        Time: 0
+        TypeWriter: 1
+        Background: {fileID: 21300000, guid: d83c2ac45baff6e4c970be0572f43bac, type: 3}
+        Outputs:
+        - rid: 2335598176633141
+        - rid: 2335598176633142
+        - rid: 2335598176633143
+        - rid: 2335598176633144
+        - rid: 2335598176633145
+        - rid: 2335598176633146
+        - rid: 2335598176633147
+        - rid: 2335598176633148
+        - rid: 2335598176633149
+        - rid: 2335598176633150
+        - rid: 2335598176633151
+        - rid: 2335598176633152
+        - rid: 2335598176633153
+        - rid: 2335598176633154
+        - rid: 2335598176633155
+        - rid: 2335598176633156
+        - rid: 2335598176633157
+        - rid: 2335598176633158
+        - rid: 2335598176633159
+        - rid: 2335598176633160
+        - rid: 2335598176633161
+    - rid: 2335598176633141
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Timeout
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 2335598176633142
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: $if[!HasPolicy==Economy]Add Policy
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: a466d433e3635074e96a617a76f9b1c9
+          NextName: Conspirator Clan
+          PortID: 
+    - rid: 2335598176633143
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: $if[HasPolicy==Economy]Remove Policy
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: b43420ed60a8cf849b5aa10f07cd64d7
+          NextName: Conspirator Clan
+          PortID: 
+    - rid: 2335598176633144
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Start Sequencer
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: a3f34803c0b490943980240930122c6a
+          NextName: In
+          PortID: 
+    - rid: 2335598176633145
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Repeater
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 7c40a0c1550b70b41acfc89eaee55e35
+          NextName: In
+          PortID: 
+    - rid: 2335598176633146
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Random Number
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: e30ed19b15f05854a88bdc223fee9209
+          NextName: In
+          PortID: 
+    - rid: 2335598176633147
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Play Sound
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 1bc4831e71402d942a522a593fce116d
+          NextName: Conspirator
+          PortID: 
+    - rid: 2335598176633148
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Invoke
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 37d8ec70b5ae6b74788da20728ec1b10
+          NextName: In
+          PortID: 
+    - rid: 2335598176633149
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Signal
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: d367358e33f10214fafe8e960bd41e37
+          NextName: In
+          PortID: 
+    - rid: 2335598176633150
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Try your luck.
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 4afbb05f81463924bbb54a0f661d89f5
+          NextName: In
+          PortID: 
+        - NextID: dac1e4f737379fa478065be584ca41b5
+          NextName: In
+          PortID: 
+    - rid: 2335598176633151
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Boost your luck.
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 7dd85c0b531b9734c90008be8542d637
+          NextName: In
+          PortID: 
+    - rid: 2335598176633152
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Decrease your luck.
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 44180acdc03200e46ae8666073dc7df6
+          NextName: In
+          PortID: 
+    - rid: 2335598176633153
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Go To
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 3a2f43a469943d84d95ffa32177106d7
+          NextName: Link
+          PortID: 
+    - rid: 2335598176633154
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: '#if[OnOff==false]ON'
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: a27cbc453222f074d9b386965b211a31
+          NextName: In
+          PortID: 
+    - rid: 2335598176633155
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: '#if[OnOff==true]OFF'
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: f723e3e5bea038849bade26879efb4e0
+          NextName: In
+          PortID: 
+    - rid: 2335598176633156
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Buy Item
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: fa888b972a13c7a43be2ddc5210e31a4
+          NextName: Conspirator
+          PortID: 
+    - rid: 2335598176633157
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Add Gold
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: bcfca935a7d354b4dada91e977fc8347
+          NextName: Conspirator
+          PortID: 
+    - rid: 2335598176633158
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Success Scheme
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: acc5243b7f2497248b91cf378c67b241
+          NextName: In
+          PortID: 
+    - rid: 2335598176633159
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Fail Scheme
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: b25b29e9e605d4a43b698d402e1730f2
+          NextName: In
+          PortID: 
+    - rid: 2335598176633160
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: End Scheme
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 2045eb081e88b754b98025281dbd8802
+          NextName: In
+          PortID: 
+    - rid: 2335598176633161
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: End Scheme(2)
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 2b2923462845d834d8d752874fc35362
+          NextName: In
+          PortID: 
+    - rid: 2335598176633195
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: eb61b319de24a7e43a6e7c8e7324a0ca
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 3138, y: -1009}
+        Note: Voice for dialogue.
+    - rid: 2335598176633197
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: b68e2a4b8065f5c40afe6552254a5955
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 2640, y: -1009}
+        Note: Background theme sound for dialogue.
+    - rid: 2335626547167234
+      type: {class: PolicyData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: b9f44055372381c48be6b0812b61eb6d
+        groupId: 
+        <Position>k__BackingField: {x: 1733, y: -239}
+        PolicyName: Economy
+        Description: Description
+        Icon: {fileID: 21300000, guid: 4cc6e67e76ed2384e8dec43a01aef26e, type: 3}
+    - rid: 2335626547167235
+      type: {class: RoleData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 04c4e2e587aed124fb9522f90181a345
+        groupId: 
+        <Position>k__BackingField: {x: 1733, y: -7}
+        RoleName: Leader
+        Description: 
+        FilterID: 7aa8a43f22b6dd14a882c00897e0e635
+        RoleSlot: 1
+        Legacy: 1
+        TitleForMale: King
+        TitleForFemale: Queen
+        RoleIcon: {fileID: 21300000, guid: 6df22436d7d20c745ae99955ea0cabd4, type: 3}
+        Priority: 100
+    - rid: 3094817428851916820
+      type: {class: ActorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: d9ffe687-a489-46a1-9fab-5d38352a80b1
+        groupId: 
+        <Position>k__BackingField: {x: 1, y: 1}
+        ActorName: Burakor
+        Age: 36
+        Gender: 0
+        State: 0
+        CultureID: 8ff1a32ba62f01f4cb9a6afe48ab6116
+        Portrait: {fileID: 21300000, guid: 66eca9ddbd2fe104d8da95414918f190, type: 3}
+        IsPlayer: 0
+    - rid: 3094817428851916831
+      type: {class: GhostFamilyData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 4235f186d0d1837489249ad9c846a2c6
+        groupId: 2660cb6a79a96014cbcd88c4185ab472
+        <Position>k__BackingField: {x: 796.9033, y: -37.16131}
+    - rid: 3094817428851916834
+      type: {class: FamilyMemberData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 8ad981dff9035524caea29c07ae896b3
+        groupId: 2660cb6a79a96014cbcd88c4185ab472
+        <Position>k__BackingField: {x: 842, y: -37}
+        ActorID: a307ee03-6e7b-425f-83ec-d95d7238976d
+        Outputs:
+        - rid: 3094817428851916835
+        - rid: 3094817428851916836
+        - rid: 3094817428851916837
+        - rid: 3094817428851916838
+    - rid: 3094817428851916835
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Children
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817428851916836
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Spouse
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817428851916837
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Spouse
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817428851916838
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Parent
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817428851916846
+      type: {class: GhostFamilyData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: f5942319dcdd46d46b7ffe81daf72bce
+        groupId: 27576a20c7df92b42a808143bd7bf86b
+        <Position>k__BackingField: {x: 1377, y: 76}
+    - rid: 3094817428851916847
+      type: {class: FamilyGroupData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 2660cb6a79a96014cbcd88c4185ab472
+        <Title>k__BackingField: Example Family 1
+        <Position>k__BackingField: {x: 771, y: -196}
+        <Story>k__BackingField: Description
+        <CultureID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+        <Emblem>k__BackingField: {fileID: 21300000, guid: 68cedecf514ce8447851fde8c9434f9c, type: 3}
+    - rid: 3094817428851916850
+      type: {class: FamilyMemberData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: e3c7393f5265ce749a62f6e1cc1c6b6f
+        groupId: 27576a20c7df92b42a808143bd7bf86b
+        <Position>k__BackingField: {x: 1422, y: 76}
+        ActorID: d9ffe687-a489-46a1-9fab-5d38352a80b1
+        Outputs:
+        - rid: 3094817428851916851
+        - rid: 3094817428851916852
+        - rid: 3094817428851916853
+        - rid: 3094817428851916854
+    - rid: 3094817428851916851
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Children
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817428851916852
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Spouse
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817428851916853
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Spouse
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817428851916854
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Parent
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817428851916857
+      type: {class: FamilyGroupData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 27576a20c7df92b42a808143bd7bf86b
+        <Title>k__BackingField: Example Family 2
+        <Position>k__BackingField: {x: 1351, y: -83}
+        <Story>k__BackingField: Description
+        <CultureID>k__BackingField: 8ff1a32ba62f01f4cb9a6afe48ab6116
+        <Emblem>k__BackingField: {fileID: 21300000, guid: 2816a044d4a6a1e47bac8e7830443632, type: 3}
+    - rid: 3094817428851916908
+      type: {class: StartData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: e7df1ee5f89053d459f59c49f18c64cf
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 749, y: -67}
+        Outputs:
+        - rid: 3094817428851916911
+    - rid: 3094817428851916911
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Run
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 74a8185809f8fd44c8dbe7b02eaba864
+          NextName: In
+          PortID: 
+    - rid: 3094817428851917185
+      type: {class: EndData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 727c5b868119b61489a16829138aaa29
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 749, y: 33}
+        Outputs:
+        - rid: 3094817428851917187
+        - rid: 3094817428851917188
+        - rid: 3094817428851917189
+        - rid: 3094817428851917190
+    - rid: 3094817428851917187
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Success
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: a58103620ae724b4caea43c08d16a9e7
+          NextName: In
+          PortID: 
+    - rid: 3094817428851917188
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Failed
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: b535c6656e42fc747bfb868030de871a
+          NextName: In
+          PortID: 
+    - rid: 3094817428851917189
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: None
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 32f730c70abdb5141b145945bee4a7ed
+          NextName: In
+          PortID: 
+    - rid: 3094817428851917190
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Any
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 3b6c37494d7b85b4cadb14a930d25b3e
+          NextName: In
+          PortID: 
+    - rid: 3094817428851917229
+      type: {class: RepeaterData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 74a8185809f8fd44c8dbe7b02eaba864
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -469}
+        RepetitionCount: -1
+        Outputs:
+        - rid: 3094817428851917233
+    - rid: 3094817428851917233
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Run
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 352c062429a2d8d4295c165b628100d4
+          NextName: Conspirator
+          PortID: 
+    - rid: 3094817428851917256
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 3b6c37494d7b85b4cadb14a930d25b3e
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: 138}
+        Log: Scheme completed.
+        Outputs:
+        - rid: 3094817428851917260
+    - rid: 3094817428851917260
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817428851917262
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 1b812b31b8e9a4f4eb00f047a9d6bfbc
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 749, y: 224}
+        Note: 'End Node: This node is present by default.
+
+          When your flow
+          is completed, the ''End Node'' is executed.'
+    - rid: 3094817430733324561
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 889193d82ac13bf49ae72c0941ce5163
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -546}
+        Note: 'Repeater Node: As the name suggests; it repeats the flow.
+
+          Here,
+          since it is -1, the flow will repeat endlessly.'
+    - rid: 3094817430733324999
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: ea74937a09e264c49afcd1c299a3a322
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -4424}
+        Note: 'Input Ports: Input ports determine how the flow will behave in some
+          nodes.
+
+          For example:'
+    - rid: 3094817430733325000
+      type: {class: SetCultureData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: dbd5f9079757ed7488a7443cf2485652
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1537, y: -4292}
+        CultureID: 8ff1a32ba62f01f4cb9a6afe48ab6116
+        Outputs:
+        - rid: 3094817430733325050
+    - rid: 3094817430733325001
+      type: {class: NewFlowData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: bff00a9987158cf429c0e7ea5355a8ff
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -4259}
+        Outputs:
+        - rid: 3094817430733325051
+    - rid: 3094817430733325003
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: abb041b308c2cd043bbd931245f16dde
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -4347}
+        Note: ----------------------------------------------------------------------------------------------
+    - rid: 3094817430733325008
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 7022cadad345b284ea29df11b93baaf5
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -3638}
+        Note: 'Output Ports: Output ports determine where the flow will continue
+          from.
+
+          For example:'
+    - rid: 3094817430733325009
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: cef6d0772fc23af4b9c24727f6046322
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -3561}
+        Note: ----------------------------------------------------------------------------------------------
+    - rid: 3094817430733325010
+      type: {class: GetCultureData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 84d802720d000894fbe67fd0bc179e74
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1509, y: -3506}
+        CultureID: 8ff1a32ba62f01f4cb9a6afe48ab6116
+        Outputs:
+        - rid: 3094817430733325054
+        - rid: 3094817430733325055
+    - rid: 3094817430733325011
+      type: {class: NewFlowData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 62c4cd9b3a524d44ea3b0e289cd4d5f0
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -3473}
+        Outputs:
+        - rid: 3094817430733325056
+    - rid: 3094817430733325012
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: f2d9a69e55dca2249bc09bc9ea33d6ea
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1845, y: -3506}
+        Log: 'Conspirator Culture: Imperian'
+        Outputs:
+        - rid: 3094817430733325057
+    - rid: 3094817430733325013
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: e6881630941e6a542b7869398c0d43a5
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1845, y: -3420}
+        Log: 'Conspirator Culture: Not Imperian'
+        Outputs:
+        - rid: 3094817430733325058
+    - rid: 3094817430733325014
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 4b72bff1b69460047bf53ea8eaa704c3
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -3332}
+        Note: "Here, if the Conspirator's culture is Imperian, \nthe flow will continue
+          from the first output; if not, it will continue from the second output."
+    - rid: 3094817430733325015
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 33958becd21fe7746bd0d8f738bf6d01
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -3255}
+        Note: ----------------------------------------------------------------------------------------------
+    - rid: 3094817430733325016
+      type: {class: NewFlowData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 4ca942d10be8f4c46ba51f6c30d14619
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -3186}
+        Outputs:
+        - rid: 3094817430733325059
+    - rid: 3094817430733325017
+      type: {class: GetStateData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 5a7989d573721ef49a88c0458b1b9e45
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1509, y: -3200}
+        State: 1
+        Outputs:
+        - rid: 3094817430733325060
+        - rid: 3094817430733325061
+    - rid: 3094817430733325018
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 2d34c9ab4c4c8b5458ec2cb29ae3169d
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1845, y: -3200}
+        Log: Target is not alive.
+        Outputs:
+        - rid: 3094817430733325062
+    - rid: 3094817430733325019
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: ce74a30d8d9ceb2409b567daf6e40c07
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1845, y: -3114}
+        Log: Target is alive.
+        Outputs:
+        - rid: 3094817430733325063
+    - rid: 3094817430733325020
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 501a3ec0b8641aa4da1da4661d512442
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -3028}
+        Note: "Here, if the Target's State is Passive, \nthe flow will continue from
+          the first output; if not, it will continue from the second output."
+    - rid: 3094817430733325050
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817430733325051
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: dbd5f9079757ed7488a7443cf2485652
+          NextName: Conspirator
+          PortID: 
+    - rid: 3094817430733325054
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Is
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: f2d9a69e55dca2249bc09bc9ea33d6ea
+          NextName: In
+          PortID: 
+    - rid: 3094817430733325055
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Is Not
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: e6881630941e6a542b7869398c0d43a5
+          NextName: In
+          PortID: 
+    - rid: 3094817430733325056
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 84d802720d000894fbe67fd0bc179e74
+          NextName: Conspirator
+          PortID: 
+    - rid: 3094817430733325057
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817430733325058
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817430733325059
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 5a7989d573721ef49a88c0458b1b9e45
+          NextName: Target
+          PortID: 
+    - rid: 3094817430733325060
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Is
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 2d34c9ab4c4c8b5458ec2cb29ae3169d
+          NextName: In
+          PortID: 
+    - rid: 3094817430733325061
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Is Not
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: ce74a30d8d9ceb2409b567daf6e40c07
+          NextName: In
+          PortID: 
+    - rid: 3094817430733325062
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817430733325063
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817430733325082
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 5cf662711259fae429e36c54422ac6b9
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1002, y: -3767}
+        Note: ----------------------------------------------------------------------------------------------[OUTPUTS]-------------------------------------------------------------------------------------------------------------
+    - rid: 3094817430733325084
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: f6e9ea1aa056d7249943ee4ca20da1a1
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1002, y: -4538}
+        Note: ----------------------------------------------------------------------------------------------[INPUTS]-------------------------------------------------------------------------------------------------------------
+    - rid: 3094817434205945953
+      type: {class: GhostClanData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 3f23eaa8ed6ca8345be40d0e8c55c58f
+        groupId: adf9bcc4e4c6e574ebd12aa783257c38
+        <Position>k__BackingField: {x: 1202.176, y: -77.824005}
+    - rid: 3094817434205945972
+      type: {class: ClanMemberData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: f54775e9377c9b64b884b1d5fcd18915
+        groupId: adf9bcc4e4c6e574ebd12aa783257c38
+        <Position>k__BackingField: {x: 1406, y: -78}
+        ActorID: d9ffe687-a489-46a1-9fab-5d38352a80b1
+        RoleID: 
+    - rid: 3094817434205946058
+      type: {class: HeirFilterData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 7aa8a43f22b6dd14a882c00897e0e635
+        groupId: 
+        <Position>k__BackingField: {x: 1733, y: 508}
+        FilterName: Leader Filter
+        Gender: 3
+        Age: 1
+        Clan: 0
+        Relatives: 010000000300000004000000000000000000000000000000000000000000000000000000000000000000000000000000
+    - rid: 3094817434205946151
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: a58103620ae724b4caea43c08d16a9e7
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -120}
+        Log: 'Scheme completed. Result: Success.'
+        Outputs:
+        - rid: 3094817434205946153
+    - rid: 3094817434205946153
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817434205946246
+      type: {class: StartRuleData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: ebb00a0ed0133b745b1c2a5e7b9c35fb
+        groupId: 52513849e7d6cf1499b041a597913dfd
+        <Position>k__BackingField: {x: 1151, y: -117}
+        Outputs:
+        - rid: 3094817434205946249
+    - rid: 3094817434205946249
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Run
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 5e835cbf4d07c8a4d9e555337cf6ffcd
+          NextName: Conspirator
+          PortID: 
+    - rid: 3094817434205946352
+      type: {class: GetVariableRuleData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 5e835cbf4d07c8a4d9e555337cf6ffcd
+        groupId: 52513849e7d6cf1499b041a597913dfd
+        <Position>k__BackingField: {x: 1380, y: -214}
+        VariableID: abe5cc635031adb43acd5f1787cdc718
+        VariableType: 1
+        StringValue: 
+        FloatValue: 0
+        IntegerValue: 50
+        Outputs:
+        - rid: 3094817434205946353
+        - rid: 3094817434205946354
+        - rid: 3094817434205946355
+        - rid: 3094817434205946356
+        - rid: 3094817434205946357
+        - rid: 3094817434205946358
+        EnumType: 0
+    - rid: 3094817434205946353
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Equal
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817434205946354
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Not Equal
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817434205946355
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Greater Than
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: a062789f1ea93bb4baa7176e1a3b0cc0
+          NextName: Conspirator
+          PortID: 
+    - rid: 3094817434205946356
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Less Than
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817434205946357
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Greater Than Or Equal
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817434205946358
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Less Than Or Equal
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: a97bd35869176974499e7da142e781bc
+          NextName: In
+          PortID: 
+    - rid: 3094817434205946363
+      type: {class: GetStateRuleData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: a062789f1ea93bb4baa7176e1a3b0cc0
+        groupId: 52513849e7d6cf1499b041a597913dfd
+        <Position>k__BackingField: {x: 2502, y: -175}
+        State: 0
+        Outputs:
+        - rid: 3094817434205946368
+        - rid: 3094817434205946369
+    - rid: 3094817434205946364
+      type: {class: CauseRuleData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 734ab90eab720644da733e24fd15146f
+        groupId: 52513849e7d6cf1499b041a597913dfd
+        <Position>k__BackingField: {x: 2825, y: -54}
+        Outputs:
+        - rid: 3094817434205946370
+        ErrorName: Target Is Not Alive
+        Error: Target is not alive.
+    - rid: 3094817434205946365
+      type: {class: SuccessRuleData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 684b302beb6a5784988b579edee85cc3
+        groupId: 52513849e7d6cf1499b041a597913dfd
+        <Position>k__BackingField: {x: 3480, y: -343}
+        Outputs:
+        - rid: 3094817434205946371
+    - rid: 3094817434205946366
+      type: {class: GetRoleRuleData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 2e6e5f55850e60d4d89d8c12ad2163bf
+        groupId: 52513849e7d6cf1499b041a597913dfd
+        <Position>k__BackingField: {x: 3159, y: -283}
+        RoleID: 04c4e2e587aed124fb9522f90181a345
+        Outputs:
+        - rid: 3094817434205946372
+        - rid: 3094817434205946373
+    - rid: 3094817434205946367
+      type: {class: CauseRuleData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 95964762ce69692428f6896dc5099272
+        groupId: 52513849e7d6cf1499b041a597913dfd
+        <Position>k__BackingField: {x: 3480, y: -54}
+        Outputs:
+        - rid: 3094817434205946374
+        ErrorName: Conspirator Is Not Leader
+        Error: Conspirator is not leader.
+    - rid: 3094817434205946368
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Is
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 2e6e5f55850e60d4d89d8c12ad2163bf
+          NextName: Conspirator
+          PortID: 
+    - rid: 3094817434205946369
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Is Not
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 734ab90eab720644da733e24fd15146f
+          NextName: In
+          PortID: 
+    - rid: 3094817434205946370
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Next
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 2e6e5f55850e60d4d89d8c12ad2163bf
+          NextName: Conspirator
+          PortID: 
+    - rid: 3094817434205946371
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817434205946372
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Is
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 684b302beb6a5784988b579edee85cc3
+          NextName: In
+          PortID: 
+    - rid: 3094817434205946373
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Is Not
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 95964762ce69692428f6896dc5099272
+          NextName: In
+          PortID: 
+    - rid: 3094817434205946374
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Next
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817434205946375
+      type: {class: RuleGroupData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 52513849e7d6cf1499b041a597913dfd
+        <Title>k__BackingField: Example Rule
+        <Position>k__BackingField: {x: 1125, y: -502}
+    - rid: 3094817434205946376
+      type: {class: CauseRuleData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: a97bd35869176974499e7da142e781bc
+        groupId: 52513849e7d6cf1499b041a597913dfd
+        <Position>k__BackingField: {x: 2081, y: -54}
+        Outputs:
+        - rid: 3094817434205946377
+        ErrorName: Not Enough Gold
+        Error: Target is not alive.
+    - rid: 3094817434205946377
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Next
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: a062789f1ea93bb4baa7176e1a3b0cc0
+          NextName: Conspirator
+          PortID: 
+    - rid: 3094817434205946406
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: e0fe66f6b767a0a4f9ff399525d9c390
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 749, y: 449}
+        Note: 'Validator Node checks whether the appropriate conditions are met for
+          the scheme to continue.
+
+          For example, if Person A wants to assassinate
+          Person B, but the Person B dies before the plan is finalized, the Plan
+          will be cancelled.'
+    - rid: 3094817434205946433
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: b08f36a506d5da4448f2302e23b7f2bc
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 749, y: 359}
+        Note: ----------------------------------------------------------------------------------------------[VALIDATOR]-------------------------------------------------------------------------------------------------------------
+    - rid: 3094817434205946457
+      type: {class: ClanGroupData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: adf9bcc4e4c6e574ebd12aa783257c38
+        <Title>k__BackingField: Example Clan
+        <Position>k__BackingField: {x: 1176, y: -237}
+        <Story>k__BackingField: Description
+        <CultureID>k__BackingField: 8ff1a32ba62f01f4cb9a6afe48ab6116
+        <Emblem>k__BackingField: {fileID: 21300000, guid: fbc415559b14f80468a4733b3265f790, type: 3}
+        <Policies>k__BackingField: []
+    - rid: 3094817434205946458
+      type: {class: ClanMemberData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 7f8e8c9b11780a34ea7f40d44b875206
+        groupId: adf9bcc4e4c6e574ebd12aa783257c38
+        <Position>k__BackingField: {x: 1202, y: -78}
+        ActorID: a307ee03-6e7b-425f-83ec-d95d7238976d
+        RoleID: 04c4e2e587aed124fb9522f90181a345
+    - rid: 3094817436362080329
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 32f730c70abdb5141b145945bee4a7ed
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: 52}
+        Log: 'Scheme completed. Result: None.'
+        Outputs:
+        - rid: 3094817436362080332
+    - rid: 3094817436362080332
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436362080334
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: b535c6656e42fc747bfb868030de871a
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -34}
+        Log: 'Scheme completed. Result: Failed.'
+        Outputs:
+        - rid: 3094817436362080335
+    - rid: 3094817436362080335
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436563407866
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 8badb06fdccb93245ae3d207fb395ddd
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -244}
+        Note: --------------------------------------------------------->> You can
+          open the node menu by pressing 'Space'. <<---------------------------------------------------------
+    - rid: 3094817436690809528
+      type: {class: AddPolicyData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: a466d433e3635074e96a617a76f9b1c9
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5382, y: -2438}
+        PolicyID: b9f44055372381c48be6b0812b61eb6d
+        Outputs:
+        - rid: 3094817436690809581
+    - rid: 3094817436690809530
+      type: {class: SequencerData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: a3f34803c0b490943980240930122c6a
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5382, y: -1718}
+        Outputs:
+        - rid: 3094817436690809583
+    - rid: 3094817436690809531
+      type: {class: WaitData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 8ffda0c5b225ffa4e89b6cfaac8a07cd
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5616, y: -1865}
+        Delay: 1
+        Outputs:
+        - rid: 3094817436690809584
+    - rid: 3094817436690809532
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: af84e1c67b05dac459fd929229aa364a
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5938, y: -1865}
+        Log: First Sequence
+        Outputs:
+        - rid: 3094817436690809585
+    - rid: 3094817436690809533
+      type: {class: WaitData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 6c5c40eccf262b74d81fb9a2f6faae35
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5616, y: -1751}
+        Delay: 2
+        Outputs:
+        - rid: 3094817436690809586
+    - rid: 3094817436690809534
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 8c588c974f5cdee4ba5f6e020f7a5e64
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5938, y: -1751}
+        Log: Second Sequence
+        Outputs:
+        - rid: 3094817436690809587
+    - rid: 3094817436690809535
+      type: {class: RandomData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: e30ed19b15f05854a88bdc223fee9209
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5382, y: -833}
+        Outputs:
+        - rid: 3094817436690809588
+    - rid: 3094817436690809536
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 4ba21b36a169bf341b3b440813efffe4
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5616, y: -964}
+        Log: 1
+        Outputs:
+        - rid: 3094817436690809589
+    - rid: 3094817436690809537
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 1fbd0977f75cc074792c9d18002b65cb
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5616, y: -878}
+        Log: 2
+        Outputs:
+        - rid: 3094817436690809590
+    - rid: 3094817436690809538
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 0584c5fecc58ebe4fb2fddad2bd9f5eb
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5616, y: -792}
+        Log: 3
+        Outputs:
+        - rid: 3094817436690809591
+    - rid: 3094817436690809539
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 8771a05687238094f82c46efacb80755
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5616, y: -706}
+        Log: 4
+        Outputs:
+        - rid: 3094817436690809592
+    - rid: 3094817436690809540
+      type: {class: BreakData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 2045eb081e88b754b98025281dbd8802
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5382, y: 2498}
+        Outputs:
+        - rid: 3094817436690809593
+    - rid: 3094817436690809541
+      type: {class: ContinueData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 2b2923462845d834d8d752874fc35362
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5382, y: 2616}
+        Outputs:
+        - rid: 3094817436690809594
+    - rid: 3094817436690809542
+      type: {class: ChanceData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: dac1e4f737379fa478065be584ca41b5
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5382, y: 232}
+        chance: 12.3
+        Outputs:
+        - rid: 3094817436690809595
+        - rid: 3094817436690809596
+        - rid: 3094817436690809597
+    - rid: 3094817436690809543
+      type: {class: ChanceModifierData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 5fa7f036c809f2d4081d2c856c4641c0
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5326, y: 115}
+        VariableID: 5a82582d-6c49-41f5-a6e5-32498d8d11c0
+        Positive: 0
+        Negative: 0
+        Opposite: 0
+        Mode: 0
+        Outputs:
+        - rid: 3094817436690809598
+    - rid: 3094817436690809544
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: f58ec2e4a9a41c24c9890b9f7f958e79
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5784, y: 232}
+        Log: Success
+        Outputs:
+        - rid: 3094817436690809599
+    - rid: 3094817436690809545
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 60dd5a49f74459140b60dc58200ad02d
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5784, y: 318}
+        Log: Failed
+        Outputs:
+        - rid: 3094817436690809600
+    - rid: 3094817436690809546
+      type: {class: SetTableVariableData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 7dd85c0b531b9734c90008be8542d637
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5383, y: 477}
+        VariableID: 5a82582d-6c49-41f5-a6e5-32498d8d11c0
+        VariableType: 3
+        StringValue: 
+        IntegerValue: 0
+        FloatValue: 5.3
+        Operation: 1
+        Outputs:
+        - rid: 3094817436690809601
+    - rid: 3094817436690809547
+      type: {class: SetTableVariableData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 44180acdc03200e46ae8666073dc7df6
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5383, y: 723}
+        VariableID: 5a82582d-6c49-41f5-a6e5-32498d8d11c0
+        VariableType: 3
+        StringValue: 
+        IntegerValue: 0
+        FloatValue: 4.8
+        Operation: 2
+        Outputs:
+        - rid: 3094817436690809602
+    - rid: 3094817436690809548
+      type: {class: DialogueData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 3d41e9895884f6a48bd4e7c1cd01e70c
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 6348, y: -2123}
+        Title: Sequencer
+        Content: Do you want to skip next sequence?
+        Break: 0
+        Time: 0
+        TypeWriter: 0
+        Background: {fileID: 0}
+        Outputs:
+        - rid: 3094817436690809603
+        - rid: 3094817436690809604
+        - rid: 3094817436690809605
+    - rid: 3094817436690809549
+      type: {class: SkipSequencerData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 91a7c87e126917341a81bb7861d5e8c2
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 7122, y: -1926}
+        Outputs:
+        - rid: 3094817436690809606
+        Index: 2
+    - rid: 3094817436690809550
+      type: {class: WaitData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: f41a6edc1be87894f83bfd09a07311d2
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5616, y: -1640}
+        Delay: 3
+        Outputs:
+        - rid: 3094817436690809607
+    - rid: 3094817436690809551
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: a4a3ceb1d76deff44ba6a4a3dabcf3fb
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5938, y: -1640}
+        Log: Third Sequence
+        Outputs:
+        - rid: 3094817436690809608
+    - rid: 3094817436690809552
+      type: {class: BreakSequencerData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 0ce84ff2c4c033042bbd2f5d51494fc5
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 7122, y: -1513}
+        Outputs:
+        - rid: 3094817436690809609
+    - rid: 3094817436690809553
+      type: {class: WaitData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: c577d1fef5231774b933d9b0c87329e1
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5616, y: -1540}
+        Delay: 3
+        Outputs:
+        - rid: 3094817436690809610
+    - rid: 3094817436690809554
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 4ae81bf380b4e9848982189aa5aba9b9
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5938, y: -1540}
+        Log: Fourth Sequence
+        Outputs:
+        - rid: 3094817436690809611
+    - rid: 3094817436690809556
+      type: {class: SuccessData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: acc5243b7f2497248b91cf378c67b241
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5382, y: 2223}
+        Outputs:
+        - rid: 3094817436690809615
+    - rid: 3094817436690809557
+      type: {class: FailData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: b25b29e9e605d4a43b698d402e1730f2
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5382, y: 2363}
+        Outputs:
+        - rid: 3094817436690809616
+    - rid: 3094817436690809559
+      type: {class: JumpData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 3a2f43a469943d84d95ffa32177106d7
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5382, y: 1011}
+        LinkID: 582c30e450a5cb24dbbb58411e6725de
+    - rid: 3094817436690809561
+      type: {class: RepeaterData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 7c40a0c1550b70b41acfc89eaee55e35
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5382, y: -1204}
+        RepetitionCount: 3
+        Outputs:
+        - rid: 3094817436690809619
+    - rid: 3094817436690809562
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: e6ff0f341f6e07941b5be6627897ebdf
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5616, y: -1204}
+        Log: Repeat
+        Outputs:
+        - rid: 3094817436690809620
+    - rid: 3094817436690809563
+      type: {class: SoundData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 1bc4831e71402d942a522a593fce116d
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5382, y: -457}
+        Clip: {fileID: 8300000, guid: af44ce7689dadfc4b810baa9a264fce4, type: 3}
+        Volume: 1
+        Pitch: 1
+        Priority: 128
+        WaitEnd: 0
+        Loop: 0
+        AudioMixerGroup: {fileID: 0}
+        Outputs:
+        - rid: 3094817436690809621
+    - rid: 3094817436690809566
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 52a26a2a8e5583f4faa85755309ccf3b
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5562, y: 2363}
+        Log: 'Scheme Status: Failed'
+        Outputs:
+        - rid: 3094817436690809624
+    - rid: 3094817436690809567
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 3050395259fe60e4b9646ede3edf5c18
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5592, y: 2223}
+        Log: 'Scheme Status: Success'
+        Outputs:
+        - rid: 3094817436690809625
+    - rid: 3094817436690809568
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 9872de9a56e728e44ac2b34f81d7b1b2
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5914, y: 547}
+        Log: Luck is boosted.
+        Outputs:
+        - rid: 3094817436690809626
+    - rid: 3094817436690809569
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: c16f98d4322c46142b7acdd8039f33bd
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5914, y: 785}
+        Log: Luck is decreased.
+        Outputs:
+        - rid: 3094817436690809627
+    - rid: 3094817436690809570
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 14413cf4bd279b64c96cc5cb55c70f34
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5667, y: -2427}
+        Log: Economy Policy added.
+        Outputs:
+        - rid: 3094817436690809628
+    - rid: 3094817436690809572
+      type: {class: SetTableVariableData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: a27cbc453222f074d9b386965b211a31
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5383, y: 1117}
+        VariableID: 5eee8234-6618-4f0c-b668-1c66304f539e
+        VariableType: 2
+        StringValue: True
+        IntegerValue: 0
+        FloatValue: 0
+        Operation: 0
+        Outputs:
+        - rid: 3094817436690809630
+    - rid: 3094817436690809573
+      type: {class: SetTableVariableData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: f723e3e5bea038849bade26879efb4e0
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5383, y: 1366}
+        VariableID: 5eee8234-6618-4f0c-b668-1c66304f539e
+        VariableType: 2
+        StringValue: False
+        IntegerValue: 0
+        FloatValue: 0
+        Operation: 0
+        Outputs:
+        - rid: 3094817436690809631
+    - rid: 3094817436690809574
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: a95136c188eb8684cb46be157a2e24c3
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5903, y: 1187}
+        Log: ON
+        Outputs:
+        - rid: 3094817436690809632
+    - rid: 3094817436690809575
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: d2ff20c804205cd4a84d8a81c3f83db2
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5903, y: 1428}
+        Log: OFF
+        Outputs:
+        - rid: 3094817436690809633
+    - rid: 3094817436690809576
+      type: {class: SetVariableData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: bcfca935a7d354b4dada91e977fc8347
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5383, y: 1921}
+        VariableID: abe5cc635031adb43acd5f1787cdc718
+        StringValue: 
+        IntegerValue: 45
+        FloatValue: 0
+        Operation: 1
+        ObjectValue: {fileID: 0}
+        Outputs:
+        - rid: 3094817436690809634
+    - rid: 3094817436690809577
+      type: {class: GetVariableData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: fa888b972a13c7a43be2ddc5210e31a4
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5383, y: 1649}
+        VariableID: abe5cc635031adb43acd5f1787cdc718
+        VariableType: 1
+        StringValue: 
+        FloatValue: 0
+        IntegerValue: 50
+        Outputs:
+        - rid: 3094817436690809635
+        - rid: 3094817436690809636
+        - rid: 3094817436690809637
+        - rid: 3094817436690809638
+        - rid: 3094817436690809639
+        - rid: 3094817436690809640
+        EnumType: 0
+    - rid: 3094817436690809578
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: f3b058d42a7b3694280adc6f03915cb4
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 6043, y: 1688}
+        Log: Insufficient gold.
+        Outputs:
+        - rid: 3094817436690809641
+    - rid: 3094817436690809580
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: dbcd0d30f7a99a54886cb3d475c85645
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 6043, y: 2002}
+        Log: You have won 45 gold.
+        Outputs:
+        - rid: 3094817436690809643
+    - rid: 3094817436690809581
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 14413cf4bd279b64c96cc5cb55c70f34
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809583
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: -->
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 8ffda0c5b225ffa4e89b6cfaac8a07cd
+          NextName: In
+          PortID: 
+        - NextID: 6c5c40eccf262b74d81fb9a2f6faae35
+          NextName: In
+          PortID: 
+        - NextID: f41a6edc1be87894f83bfd09a07311d2
+          NextName: In
+          PortID: 
+        - NextID: c577d1fef5231774b933d9b0c87329e1
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809584
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: af84e1c67b05dac459fd929229aa364a
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809585
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 3d41e9895884f6a48bd4e7c1cd01e70c
+          NextName: Conspirator
+          PortID: 
+    - rid: 3094817436690809586
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 8c588c974f5cdee4ba5f6e020f7a5e64
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809587
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809588
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Possibility
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 4ba21b36a169bf341b3b440813efffe4
+          NextName: In
+          PortID: 
+        - NextID: 1fbd0977f75cc074792c9d18002b65cb
+          NextName: In
+          PortID: 
+        - NextID: 8771a05687238094f82c46efacb80755
+          NextName: In
+          PortID: 
+        - NextID: 0584c5fecc58ebe4fb2fddad2bd9f5eb
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809589
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809590
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809591
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809592
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809593
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809594
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809595
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Success
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: f58ec2e4a9a41c24c9890b9f7f958e79
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809596
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Failed
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 60dd5a49f74459140b60dc58200ad02d
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809597
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Display
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809598
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: dac1e4f737379fa478065be584ca41b5
+          NextName: <-
+          PortID: 
+    - rid: 3094817436690809599
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809600
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809601
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 9872de9a56e728e44ac2b34f81d7b1b2
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809602
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: c16f98d4322c46142b7acdd8039f33bd
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809603
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Timeout
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809604
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Yes
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 91a7c87e126917341a81bb7861d5e8c2
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809605
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: No
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809606
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Skip
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809607
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: a4a3ceb1d76deff44ba6a4a3dabcf3fb
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809608
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 0a3b48ccda98ba244987b91566cc3c9c
+          NextName: Conspirator
+          PortID: 
+    - rid: 3094817436690809609
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809610
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 4ae81bf380b4e9848982189aa5aba9b9
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809611
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809615
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 3050395259fe60e4b9646ede3edf5c18
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809616
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 52a26a2a8e5583f4faa85755309ccf3b
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809619
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Run
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: e6ff0f341f6e07941b5be6627897ebdf
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809620
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809621
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809624
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809625
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809626
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809627
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809628
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809630
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: a95136c188eb8684cb46be157a2e24c3
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809631
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: d2ff20c804205cd4a84d8a81c3f83db2
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809632
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809633
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809634
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: dbcd0d30f7a99a54886cb3d475c85645
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809635
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Equal
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809636
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Not Equal
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809637
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Greater Than
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809638
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Less Than
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: f3b058d42a7b3694280adc6f03915cb4
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809639
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Greater Than Or Equal
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: f94d70a34d96e734a9ab3dbb8183ab02
+          NextName: In
+          PortID: 
+    - rid: 3094817436690809640
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Less Than Or Equal
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809641
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809643
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817436690809647
+      type: {class: ChoiceTextData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 4afbb05f81463924bbb54a0f661d89f5
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5087, y: 359}
+        Text: '"Chance Node Example"'
+        Text2: 
+        ChanceID: 
+    - rid: 3094817436690809737
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: f94d70a34d96e734a9ab3dbb8183ab02
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 6043, y: 1781}
+        Log: Purchase successful.
+        Outputs:
+        - rid: 3094817436690809739
+    - rid: 3094817436690809738
+      type: {class: SetVariableData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 91d6e981ae5fad240be747be61d009c3
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 6557, y: 1639}
+        VariableID: abe5cc635031adb43acd5f1787cdc718
+        StringValue: 
+        IntegerValue: 50
+        FloatValue: 0
+        Operation: 2
+        ObjectValue: {fileID: 0}
+        Outputs:
+        - rid: 3094817436690809740
+    - rid: 3094817436690809739
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 91d6e981ae5fad240be747be61d009c3
+          NextName: Conspirator
+          PortID: 
+    - rid: 3094817436690809740
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656645877
+      type: {class: ValidatorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 891ad3a0cf4f265439ba4b6fc94b9402
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 749, y: 558}
+        RuleID: 52513849e7d6cf1499b041a597913dfd
+        Outputs:
+        - rid: 3094817610656645879
+        - rid: 3094817610656645880
+        - rid: 3094817610656645881
+    - rid: 3094817610656645879
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Target Is Not Alive
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 2
+        Primary: 1
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: b7e78b7e03421284eb012cfc5cbd632d
+          NextName: In
+          PortID: 
+    - rid: 3094817610656645880
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Conspirator Is Not Leader
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 2
+        Primary: 1
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: db18a4c99eef6474aa4b341b1c38e0c4
+          NextName: In
+          PortID: 
+    - rid: 3094817610656645881
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Not Enough Gold
+        Sprite: {fileID: 0}
+        Disabled: 1
+        ValidatorMode: 1
+        Primary: 1
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 21cd310b6fbce314ab11a0a858ca8bb9
+          NextName: Conspirator
+          PortID: 
+    - rid: 3094817610656645905
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 37ce3bd16d9502b4996c9abbff54e6ff
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 749, y: 1128}
+        Note: 'You can set the basic settings for the Scheme from below.
+
+          Rule
+          represents the rules that need to be met for the implementation of the
+          Scheme.
+
+
+
+          For example, if you want the Assassination Scheme
+          to be applied only to targets aged 18 and above, you can easily set this
+          from the Rule page.
+
+
+
+          On the other hand, you can create variables
+          from the Variables section, record the developments in the story, and progress
+          accordingly.
+
+
+
+          Continue examining the example for details.'
+    - rid: 3094817610656645908
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 3414bea409f523042b2fcce101116a2e
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -2379}
+        Note: 'Multiple Outputs: If the output is connected to more than one node,
+
+          it
+          will execute them in priority from top to bottom.
+
+          The node at
+          the top will operate before the node below it.
+
+          For Example:'
+    - rid: 3094817610656645909
+      type: {class: NewFlowData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 97d04cc81495814408e9ebd4e678e5c2
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -2118}
+        Outputs:
+        - rid: 3094817610656645937
+    - rid: 3094817610656645910
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 5774479f6a6f2eb4bba85eb60c381d83
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -2258}
+        Note: ----------------------------------------------------------------------------------------------
+    - rid: 3094817610656645911
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 6288b69fb82608846825529e1576c808
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1500, y: -2204}
+        Log: A
+        Outputs:
+        - rid: 3094817610656645938
+    - rid: 3094817610656645912
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 2d84e6d040947774396af8fe41c8686f
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1500, y: -2118}
+        Log: C
+        Outputs:
+        - rid: 3094817610656645939
+    - rid: 3094817610656645913
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: e5f144c6d162dc74cb343ba577bc8846
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1500, y: -2032}
+        Log: B
+        Outputs:
+        - rid: 3094817610656645940
+    - rid: 3094817610656645914
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 4e408d52622af944eabc65fb7bd09084
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1718, y: -2135}
+        Note: "Outputs: \nA\nC\nB"
+    - rid: 3094817610656645915
+      type: {class: RandomData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 2a01b9fa1317ead48a8ab7253f1d76d0
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -1765}
+        Outputs:
+        - rid: 3094817610656645941
+    - rid: 3094817610656645916
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: ab42c72dc881be7458f9db7bee6f774d
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -1891}
+        Note: ----------------------------------------------------------------------------------------------
+    - rid: 3094817610656645917
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: ea2da08e821f08844868c084170e780d
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1500, y: -1679}
+        Log: B
+        Outputs:
+        - rid: 3094817610656645942
+    - rid: 3094817610656645918
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 919de7c49c008e24c959a1801ca6251f
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1500, y: -1851}
+        Log: A
+        Outputs:
+        - rid: 3094817610656645943
+    - rid: 3094817610656645919
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 6f3e6fcd242a48f43b7a5ac5407c9828
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1500, y: -1765}
+        Log: C
+        Outputs:
+        - rid: 3094817610656645944
+    - rid: 3094817610656645920
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: a0a363d2e86495b47b0b119ed29eedcf
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1718, y: -1741}
+        Note: 'Output: A or B or C (Random)'
+    - rid: 3094817610656645921
+      type: {class: SequencerData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 6c4614239d2164b439ab6b0220a622f4
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -1397}
+        Outputs:
+        - rid: 3094817610656645945
+    - rid: 3094817610656645922
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 7e4fd888d4617fc4cada35937160c66c
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -1538}
+        Note: ----------------------------------------------------------------------------------------------
+    - rid: 3094817610656645923
+      type: {class: WaitData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 0969e9b198ff4d344adad2ecf0fc4484
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1500, y: -1483}
+        Delay: 1
+        Outputs:
+        - rid: 3094817610656645946
+    - rid: 3094817610656645924
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 3b78ed5994d903147b3871c9248af33e
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1777, y: -1483}
+        Log: A
+        Outputs:
+        - rid: 3094817610656645947
+    - rid: 3094817610656645925
+      type: {class: WaitData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 541d2cace6c40094f90e193d79819f79
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1500, y: -1397}
+        Delay: 5
+        Outputs:
+        - rid: 3094817610656645948
+    - rid: 3094817610656645926
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 4e84b7f0c78943f428085c0a9f8daef6
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1777, y: -1397}
+        Log: B
+        Outputs:
+        - rid: 3094817610656645949
+    - rid: 3094817610656645927
+      type: {class: WaitData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 1fab04f0256a7dc4e85b2800f0d96ffc
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1500, y: -1311}
+        Delay: 3
+        Outputs:
+        - rid: 3094817610656645950
+    - rid: 3094817610656645928
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: ff1092b52e280f4479ad8f16078732cf
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1777, y: -1311}
+        Log: C
+        Outputs:
+        - rid: 3094817610656645951
+    - rid: 3094817610656645929
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: a733b5f1ad0894e4899fc01e922d99f5
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1995, y: -1451}
+        Note: '- Waits 1sc..
+
+          Output: A
+
+
+          - Waits 5sc..
+
+          Output:
+          B
+
+
+          - Waits 3sc..
+
+          Output: C'
+    - rid: 3094817610656645930
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 938d140a7b4d25345b478e8353dd5101
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -1593}
+        Note: Here, the Random Node randomly selects only one from all the connected
+          nodes and continues the flow from there.
+    - rid: 3094817610656645931
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 7aea6ba1c7331974dab9c4a615231afd
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -1946}
+        Note: Here, among the nodes to which the output is connected, the one with
+          the highest Y position will execute before the others.
+    - rid: 3094817610656645932
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 2b05d1267b268584988eb33a8c4cf62c
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -1225}
+        Note: Sequencer Node is used for sequential processes. It won't proceed to
+          the next flow until the previous one is completed.
+    - rid: 3094817610656645933
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 579a2001a0b477e46874dc31ee30a22c
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -1170}
+        Note: In the example above; it will take a total of 1+5+3 (9) seconds for
+          the Sequencer to complete and finally print 'C' to the console.
+    - rid: 3094817610656645934
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: ea7711c7b8958a44894441f2191ec4ae
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1002, y: -2490}
+        Note: ----------------------------------------------------------------------------------------------[MULTIPLE
+          OUTPUTS]-------------------------------------------------------------------------------------------------------------
+    - rid: 3094817610656645937
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 6288b69fb82608846825529e1576c808
+          NextName: In
+          PortID: 
+        - NextID: 2d84e6d040947774396af8fe41c8686f
+          NextName: In
+          PortID: 
+        - NextID: e5f144c6d162dc74cb343ba577bc8846
+          NextName: In
+          PortID: 
+    - rid: 3094817610656645938
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656645939
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656645940
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656645941
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Possibility
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 919de7c49c008e24c959a1801ca6251f
+          NextName: In
+          PortID: 
+        - NextID: 6f3e6fcd242a48f43b7a5ac5407c9828
+          NextName: In
+          PortID: 
+        - NextID: ea2da08e821f08844868c084170e780d
+          NextName: In
+          PortID: 
+    - rid: 3094817610656645942
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656645943
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656645944
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656645945
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: -->
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 0969e9b198ff4d344adad2ecf0fc4484
+          NextName: In
+          PortID: 
+        - NextID: 541d2cace6c40094f90e193d79819f79
+          NextName: In
+          PortID: 
+        - NextID: 1fab04f0256a7dc4e85b2800f0d96ffc
+          NextName: In
+          PortID: 
+    - rid: 3094817610656645946
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 3b78ed5994d903147b3871c9248af33e
+          NextName: In
+          PortID: 
+    - rid: 3094817610656645947
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656645948
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 4e84b7f0c78943f428085c0a9f8daef6
+          NextName: In
+          PortID: 
+    - rid: 3094817610656645949
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656645950
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: ff1092b52e280f4479ad8f16078732cf
+          NextName: In
+          PortID: 
+    - rid: 3094817610656645951
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656645985
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: bd1ffd0e47dbbbf4bb8feca86f1b5c24
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -2951}
+        Note: ----------------------------------------------------------------------------------------------
+    - rid: 3094817610656646015
+      type: {class: NewFlowData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 593d783f2edc9ef48a67cb24d3f0e249
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -2886}
+        Outputs:
+        - rid: 3094817610656646018
+    - rid: 3094817610656646018
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 73341a8a17712cb46b99be0fc76c7024
+          NextName: In
+          PortID: 
+    - rid: 3094817610656646028
+      type: {class: GetStateData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: b1a09d022d5003d4c978dc88d5d72ec9
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1845, y: -2909}
+        State: 1
+        Outputs:
+        - rid: 3094817610656646030
+        - rid: 3094817610656646031
+    - rid: 3094817610656646030
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Is
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: b85072991dc3ac84b80b1fc7520a5485
+          NextName: In
+          PortID: 
+    - rid: 3094817610656646031
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Is Not
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 35efa615c8fb8294fbba5971d1a7eb06
+          NextName: In
+          PortID: 
+    - rid: 3094817610656646035
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 3b0e3ee927420fd46b95a032f2c3127e
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -4136}
+        Note: "Here, since the Input Port is connected to the Conspirator, \nit will
+          change the culture of the Conspirator."
+    - rid: 3094817610656646036
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: f11ad26cd3687e54a8141e68bc5f5541
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -4059}
+        Note: ----------------------------------------------------------------------------------------------
+    - rid: 3094817610656646037
+      type: {class: NewFlowData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 65925e1bf3d672143966029e23231af3
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -3983}
+        Outputs:
+        - rid: 3094817610656646040
+    - rid: 3094817610656646038
+      type: {class: SetStateData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: d0bff1de226b08144b4999a56eb665f1
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1537, y: -4004}
+        State: 1
+        Outputs:
+        - rid: 3094817610656646041
+    - rid: 3094817610656646040
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: d0bff1de226b08144b4999a56eb665f1
+          NextName: Target
+          PortID: 
+    - rid: 3094817610656646041
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656646043
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 375670edd3f9b32479882314fe966cd9
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -3848}
+        Note: "Here, since the Input Port is connected to the Target, \nthe Target's
+          State will be changed to 'Passive'."
+    - rid: 3094817610656646045
+      type: {class: SignalData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: d367358e33f10214fafe8e960bd41e37
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5382, y: 5}
+        Signal: {fileID: 11400000, guid: aefd106df2010f9408b93c63f546af4a, type: 2}
+        Outputs:
+        - rid: 3094817610656646046
+    - rid: 3094817610656646046
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656646099
+      type: {class: InvokeData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 37d8ec70b5ae6b74788da20728ec1b10
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5383, y: -133}
+        MethodName: Test Invoke
+        Outputs:
+        - rid: 3094817610656646100
+        - rid: 3094817610656646101
+        - rid: 2335598176633052
+    - rid: 3094817610656646100
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: True
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656646101
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: False
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656646112
+      type: {class: ReturnActorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 73341a8a17712cb46b99be0fc76c7024
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1509, y: -2886}
+        MethodName: Random Actor
+        Outputs:
+        - rid: 3094817610656646114
+        - rid: 3094817610656646115
+    - rid: 3094817610656646114
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: '[Actor]'
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: b1a09d022d5003d4c978dc88d5d72ec9
+          NextName: '[Actor]'
+          PortID: 
+    - rid: 3094817610656646115
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: '[Null]'
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 2617bd4b0f148604f8b13d620597aedc
+          NextName: In
+          PortID: 
+    - rid: 3094817610656646118
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 2617bd4b0f148604f8b13d620597aedc
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1845, y: -2737}
+        Log: Null.
+        Outputs:
+        - rid: 3094817610656646119
+    - rid: 3094817610656646119
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656646121
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: b85072991dc3ac84b80b1fc7520a5485
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 2181, y: -2909}
+        Log: Actor is not alive.
+        Outputs:
+        - rid: 3094817610656646122
+    - rid: 3094817610656646122
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656646124
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 35efa615c8fb8294fbba5971d1a7eb06
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 2181, y: -2823}
+        Log: Actor is alive.
+        Outputs:
+        - rid: 3094817610656646125
+    - rid: 3094817610656646125
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 3094817610656646133
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 75236fcade286a54c883d6239865b8a3
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1274, y: -2640}
+        Note: 'Here, we determine the actor by calling the ''Random Actor'' method
+          with a return type of Actor found in the Example script on the scene.
+
+          The
+          ''Return Actor'' Node can be used to reference any actor other than the
+          Conspirator and Target.
+
+
+
+          Note: The class containing the methods
+          must be a Single Instance.'
+    - rid: 6353874374738051073
+      type: {class: RemovePolicyData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: b43420ed60a8cf849b5aa10f07cd64d7
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5382, y: -2261}
+        PolicyID: b9f44055372381c48be6b0812b61eb6d
+        Outputs:
+        - rid: 6353874374738051077
+    - rid: 6353874374738051074
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: aca203bff642de540a336be7ea0a59e1
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5667, y: -2241}
+        Log: Economy Policy removed.
+        Outputs:
+        - rid: 6353874374738051078
+    - rid: 6353874374738051077
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: aca203bff642de540a336be7ea0a59e1
+          NextName: In
+          PortID: 
+    - rid: 6353874374738051078
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 6353874377492922369
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: b7e78b7e03421284eb012cfc5cbd632d
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1064, y: 558}
+        Log: 'Scheme terminated. Reason: Target is not alive.'
+        Outputs:
+        - rid: 6353874377492922375
+    - rid: 6353874377492922370
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: db18a4c99eef6474aa4b341b1c38e0c4
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1064, y: 644}
+        Log: 'Scheme terminated. Reason: Conspirator is not Leader.'
+        Outputs:
+        - rid: 6353874377492922376
+    - rid: 6353874377492922371
+      type: {class: SetVariableData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 21cd310b6fbce314ab11a0a858ca8bb9
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1064, y: 742}
+        VariableID: abe5cc635031adb43acd5f1787cdc718
+        StringValue: 
+        IntegerValue: 50
+        FloatValue: 0
+        Operation: 1
+        ObjectValue: {fileID: 0}
+        Outputs:
+        - rid: 6353874377492922377
+    - rid: 6353874377492922372
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: e94dd6a266600594491e5a0adbbbde3e
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 1586, y: 742}
+        Log: 50 gold was given to Conspirator since they lacked it. The scheme continues..
+        Outputs:
+        - rid: 6353874377492922378
+    - rid: 6353874377492922375
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 6353874377492922376
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 6353874377492922377
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: e94dd6a266600594491e5a0adbbbde3e
+          NextName: In
+          PortID: 
+    - rid: 6353874377492922378
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 6353874377492922392
+      type: {class: LinkedData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 582c30e450a5cb24dbbb58411e6725de
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 5914, y: 1011}
+        Name: Adress
+        Outputs:
+        - rid: 6353874377492922394
+    - rid: 6353874377492922393
+      type: {class: LogData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: f57d3129290d6a1418696a4fef0ebf9b
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 6215, y: 970}
+        Log: Go To
+        Outputs:
+        - rid: 6353874377492922395
+    - rid: 6353874377492922394
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Go To
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: f57d3129290d6a1418696a4fef0ebf9b
+          NextName: In
+          PortID: 
+    - rid: 6353874377492922395
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Out
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 6353874377492922397
+      type: {class: DialogueData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 0a3b48ccda98ba244987b91566cc3c9c
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 6348, y: -1712}
+        Title: Sequencer
+        Content: Do you want to end sequence?
+        Break: 0
+        Time: 0
+        TypeWriter: 0
+        Background: {fileID: 0}
+        Outputs:
+        - rid: 6353874377492922398
+        - rid: 6353874377492922399
+        - rid: 6353874377492922400
+    - rid: 6353874377492922398
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Timeout
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 6353874377492922399
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: Yes
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 0ce84ff2c4c033042bbd2f5d51494fc5
+          NextName: In
+          PortID: 
+    - rid: 6353874377492922400
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: No
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection: []
+    - rid: 6353874515275284481
+      type: {class: ActorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 7db02f35-c94f-4851-8f9c-7548c5c715be
+        groupId: 
+        <Position>k__BackingField: {x: 1, y: 1}
+        ActorName: Taylion
+        Age: 44
+        Gender: 0
+        State: 0
+        CultureID: b2ca01734a348a44a873ec93ae093f6c
+        Portrait: {fileID: 21300000, guid: 3f77edb39405ba14b91fadabf5e79985, type: 3}
+        IsPlayer: 0
+    - rid: 6353874515275284482
+      type: {class: ActorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: c8448007-923e-425e-9057-edb6a97d0758
+        groupId: 
+        <Position>k__BackingField: {x: 1, y: 1}
+        ActorName: Burakor
+        Age: 50
+        Gender: 0
+        State: 0
+        CultureID: b2ca01734a348a44a873ec93ae093f6c
+        Portrait: {fileID: 21300000, guid: 97d14f7a6eecf3440848f71e15ce5d70, type: 3}
+        IsPlayer: 0
+    - rid: 6353874515275284486
+      type: {class: ActorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 3db8d09d-625a-4cd9-be61-d0d0cd295512
+        groupId: 
+        <Position>k__BackingField: {x: 1, y: 1}
+        ActorName: Taylion
+        Age: 51
+        Gender: 0
+        State: 0
+        CultureID: b2ca01734a348a44a873ec93ae093f6c
+        Portrait: {fileID: 21300000, guid: 7a55d8edf3d18e4478dfcee207e5fe30, type: 3}
+        IsPlayer: 0
+    - rid: 6353874515275284488
+      type: {class: ActorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: ea9765de-af65-46ad-a0c1-591edf11545f
+        groupId: 
+        <Position>k__BackingField: {x: 1, y: 1}
+        ActorName: Taylion
+        Age: 62
+        Gender: 0
+        State: 0
+        CultureID: b2ca01734a348a44a873ec93ae093f6c
+        Portrait: {fileID: 21300000, guid: a52eddcab9a82b24eb8539bc3bb90720, type: 3}
+        IsPlayer: 0
+    - rid: 6353874515275284490
+      type: {class: ActorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 8a807ca0-117b-4cf1-8b0a-19d79593bb4d
+        groupId: 
+        <Position>k__BackingField: {x: 1, y: 1}
+        ActorName: Burakor
+        Age: 84
+        Gender: 0
+        State: 0
+        CultureID: b2ca01734a348a44a873ec93ae093f6c
+        Portrait: {fileID: 21300000, guid: 2fe1bc542defba5499db5ab22040d493, type: 3}
+        IsPlayer: 0
+    - rid: 8467773771613208579
+      type: {class: VariableData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: abe5cc635031adb43acd5f1787cdc718
+        groupId: 
+        <Position>k__BackingField: {x: 1208, y: 39}
+        VariableName: Gold
+        VariableType: 1
+        Variable:
+          rid: 8467773771613208581
+        EnumValue: 
+    - rid: 8467773771613208580
+      type: {class: NInt, ns: Nullframes.Intrigues, asm: Nullframes.Intrigues}
+      data:
+        name: Gold
+        id: abe5cc635031adb43acd5f1787cdc718
+        <Type>k__BackingField: 1
+        value: 100
+    - rid: 8467773771613208581
+      type: {class: NInt, ns: Nullframes.Intrigues, asm: Nullframes.Intrigues}
+      data:
+        name: Gold
+        id: d8334117-af13-4beb-9fe3-d2e40e2883c0
+        <Type>k__BackingField: 1
+        value: 100
+    - rid: 8467773771613208747
+      type: {class: NoteData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 5889db85dd65d664b99dc6497263e9b5
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 749, y: 975}
+        Note: ----------------------------------------------------------------------------------------------[NOTES]-------------------------------------------------------------------------------------------------------------
+    - rid: 8467773771613208969
+      type: {class: SoundClassData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 65ab6938962b09a499fda903d4414a44
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 2640, y: -954}
+        Clip: {fileID: 8300000, guid: 5e607d59c2c253244a172bd52704d4d6, type: 3}
+        Volume: 0.371
+        Pitch: 1
+        Priority: 128
+        Loop: 1
+        StopWhenClosed: 1
+        FadeOut: 1
+        AudioMixerGroup: {fileID: 0}
+        Outputs:
+        - rid: 8467773771613208975
+    - rid: 8467773771613208970
+      type: {class: VoiceClassData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 680dc07c53b54d54e813a535060441fc
+        groupId: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Position>k__BackingField: {x: 3138, y: -954}
+        Clip: {fileID: 8300000, guid: 6c6e7095394983246a701e1786d197a7, type: 3}
+        Volume: 1
+        Pitch: 1
+        Priority: 128
+        Sync: 1
+        AudioMixerGroup: {fileID: 0}
+        Outputs:
+        - rid: 8467773771613208976
+    - rid: 8467773771613208975
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: '[Class]'
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 352c062429a2d8d4295c165b628100d4
+          NextName: '[Class]'
+          PortID: 
+    - rid: 8467773771613208976
+      type: {class: OutputData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        Name: '[Class]'
+        Sprite: {fileID: 0}
+        Disabled: 0
+        ValidatorMode: 0
+        Primary: 0
+        HideIfDisable: 0
+        DataCollection:
+        - NextID: 352c062429a2d8d4295c165b628100d4
+          NextName: '[Class]'
+          PortID: 
+    - rid: 8467773771613209030
+      type: {class: NexusVariable, ns: Nullframes.Intrigues, asm: Nullframes.Intrigues}
+      data:
+        id: 5eee8234-6618-4f0c-b668-1c66304f539e
+        name: OnOff
+        type: 2
+    - rid: 8467773771613209031
+      type: {class: NexusVariable, ns: Nullframes.Intrigues, asm: Nullframes.Intrigues}
+      data:
+        id: 5a82582d-6c49-41f5-a6e5-32498d8d11c0
+        name: Chance
+        type: 3
+    - rid: 8467773771613209032
+      type: {class: SchemeGroupData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 6b43e596aea7c944c9ddc1e60b780bfc
+        <Title>k__BackingField: Examples
+        <Position>k__BackingField: {x: 724, y: -4696}
+        <RuleID>k__BackingField: 52513849e7d6cf1499b041a597913dfd
+        <Description>k__BackingField: Description
+        <HideIfNotCompatible>k__BackingField: 0
+        <TargetNotRequired>k__BackingField: 0
+        <HideOnUI>k__BackingField: 0
+        <Icon>k__BackingField: {fileID: 21300000, guid: 8c2bf7cb11c0187479d5cdd2614f9c76, type: 3}
+        <Variables>k__BackingField:
+        - rid: 8467773771613209030
+        - rid: 8467773771613209031
+    - rid: 8467773906436489237
+      type: {class: CultureData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 8ff1a32ba62f01f4cb9a6afe48ab6116
+        groupId: 
+        <Position>k__BackingField: {x: 710, y: -40}
+        CultureName: Imperian
+        Description: Description
+        MaleNames:
+        - Aldarion
+        - Bramdun
+        - Cedriv
+        - Darnath
+        - Eldric
+        - Fendrel
+        - Gorath
+        - Haldor
+        - Ivarn
+        - Jorund
+        - Kaelum
+        - Lorindol
+        - Morthil
+        - Narvindor
+        - Orin
+        - Pendrake
+        - Quorin
+        - Rathgar
+        - Sarvion
+        - Tyrion
+        FemaleNames:
+        - Ariwyn
+        - Bryseis
+        - Ceridwen
+        - Delyth
+        - Eirwyn
+        - Fayra
+        - Gwendolyn
+        - Hilareth
+        - Ilyana
+        - Jenara
+        - Kythaela
+        - Lysara
+        - Mirelle
+        - Nyssa
+        - Orielle
+        - Prydwyn
+        - Quinara
+        - Rosalind
+        - Sarielle
+        - Taliyah
+    - rid: 8467773906436489239
+      type: {class: CultureData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: b2ca01734a348a44a873ec93ae093f6c
+        groupId: 
+        <Position>k__BackingField: {x: 1243, y: -40}
+        CultureName: Respublican
+        Description: Description
+        MaleNames:
+        - Aldarion
+        - Bramdun
+        - Cedriv
+        - Darnath
+        - Eldric
+        - Fendrel
+        - Gorath
+        - Haldor
+        - Ivarn
+        - Jorund
+        - Kaelum
+        - Lorindol
+        - Morthil
+        - Narvindor
+        - Orin
+        - Pendrake
+        - Quorin
+        - Rathgar
+        - Sarvion
+        - Tyrion
+        FemaleNames:
+        - Ariwyn
+        - Bryseis
+        - Ceridwen
+        - Delyth
+        - Eirwyn
+        - Fayra
+        - Gwendolyn
+        - Hilareth
+        - Ilyana
+        - Jenara
+        - Kythaela
+        - Lysara
+        - Mirelle
+        - Nyssa
+        - Orielle
+        - Prydwyn
+        - Quinara
+        - Rosalind
+        - Sarielle
+        - Taliyah
+    - rid: 8467773906436489240
+      type: {class: ActorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: a307ee03-6e7b-425f-83ec-d95d7238976d
+        groupId: 
+        <Position>k__BackingField: {x: 2, y: 1}
+        ActorName: Darnath
+        Age: 36
+        Gender: 0
+        State: 0
+        CultureID: b2ca01734a348a44a873ec93ae093f6c
+        Portrait: {fileID: 21300000, guid: 95b0a5bc57fd6b444aeb847fc9beaede, type: 3}
+        IsPlayer: 1
+    - rid: 8467773906436489241
+      type: {class: ActorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: c5c73a5e-9320-468d-aeb1-116c33484733
+        groupId: 
+        <Position>k__BackingField: {x: 1, y: 1}
+        ActorName: Lorindol
+        Age: 53
+        Gender: 0
+        State: 0
+        CultureID: b2ca01734a348a44a873ec93ae093f6c
+        Portrait: {fileID: 21300000, guid: ae30c77809ed013458d19d52262c07bd, type: 3}
+        IsPlayer: 0
+    - rid: 8467773906436489242
+      type: {class: ActorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 84f7965a-6790-4fe2-abb6-81411b6101fc
+        groupId: 
+        <Position>k__BackingField: {x: 1, y: 1}
+        ActorName: Quorin
+        Age: 51
+        Gender: 0
+        State: 0
+        CultureID: b2ca01734a348a44a873ec93ae093f6c
+        Portrait: {fileID: 21300000, guid: d3c5dd2519eab4e4cb389d5fba98d961, type: 3}
+        IsPlayer: 0
+    - rid: 8467773906436489245
+      type: {class: ActorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: 3f9f2f93-831a-4c91-bfbf-95ca2acfdab8
+        groupId: 
+        <Position>k__BackingField: {x: 1, y: 1}
+        ActorName: Pendrake
+        Age: 48
+        Gender: 0
+        State: 0
+        CultureID: b2ca01734a348a44a873ec93ae093f6c
+        Portrait: {fileID: 21300000, guid: 2f9bf544cf9375a42b765ed01d234ea9, type: 3}
+        IsPlayer: 0
+    - rid: 8467773906436489247
+      type: {class: ActorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: d7f8afe2-a176-4220-9e64-cc90d1ec912b
+        groupId: 
+        <Position>k__BackingField: {x: 1, y: 1}
+        ActorName: Orin
+        Age: 45
+        Gender: 0
+        State: 0
+        CultureID: b2ca01734a348a44a873ec93ae093f6c
+        Portrait: {fileID: 21300000, guid: 3873c0e36467d0741816ea3f776d3af3, type: 3}
+        IsPlayer: 0
+    - rid: 8467773906436489250
+      type: {class: ActorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: e8399605-bf10-4a0b-8680-2b738edb23fc
+        groupId: 
+        <Position>k__BackingField: {x: 1, y: 1}
+        ActorName: Gorath
+        Age: 59
+        Gender: 0
+        State: 0
+        CultureID: b2ca01734a348a44a873ec93ae093f6c
+        Portrait: {fileID: 21300000, guid: 1f9f19838b3c25348a6377b29ba8b081, type: 3}
+        IsPlayer: 0
+    - rid: 8467773906436489254
+      type: {class: ActorData, ns: Nullframes.Intrigues.Graph, asm: Nullframes.Intrigues}
+      data:
+        <ID>k__BackingField: ba4a1ff3-c311-41ca-9516-b4c42b9e7060
+        groupId: 
+        <Position>k__BackingField: {x: 1, y: 1}
+        ActorName: Bramdun
+        Age: 67
+        Gender: 0
+        State: 0
+        CultureID: b2ca01734a348a44a873ec93ae093f6c
+        Portrait: {fileID: 21300000, guid: 94c6191ba8e6dcb4eb2e86ff40ac3fcf, type: 3}
+        IsPlayer: 0

@@ -1,0 +1,162 @@
+/* VISUAL ELEMENTS */
+
+.root {
+    padding: 20px;
+    padding-right: 0;
+    align-self: flex-end;
+    justify-content: center;
+    flex-direction: row;
+    flex-grow: 1;
+    max-width: 700px;
+}
+
+.panel {
+    flex-grow: 1;
+    width: 550px;
+    background-color: #181818;
+    border-width: 2px;
+    border-color: #464646;
+    padding: 20px;
+    display: none;
+}
+
+.arrow {
+    align-self: center;
+    margin-right: -38px;
+}
+
+.arrow:hover {
+    -unity-background-image-tint-color: #505765;
+}
+
+.title {
+    -unity-text-align: middle-center;
+    font-size: 22px;
+    -unity-font-style: bold;
+}
+
+.characterList {
+    padding: 15px;
+    border-color: rgba(115, 115, 115, 0.43);
+    border-width: 1px;
+    border-left-width: 0;
+    border-right-width: 0;
+    max-height: 480px;
+    min-height: 480px;
+}
+
+.characterListEx {
+    padding: 15px;
+    border-color: rgba(115, 115, 115, 0.43);
+    border-width: 1px;
+    border-left-width: 0;
+    border-right-width: 0;
+}
+
+.createBtn {
+    background-color: #46423F;
+}
+
+.createBtn:hover {
+    background-color: #59524c;
+}
+
+.createBtn:active {
+    background-color: #504a42;
+}
+
+.clearBtn {
+    background-color: #463f42;
+}
+
+.clearBtn:hover {
+    background-color: #494145;
+}
+
+.clearBtn:active {
+    background-color: #4d4347;
+}
+
+.scrollContainer {
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.character {
+    margin: 6px;
+    width: 128px;
+    height: 128px;
+    border-width: 2px;
+    border-color: #484D9C;
+    border-radius: 4px;
+    -unity-background-image-tint-color: rgb(180, 180, 180);
+    flex-wrap: wrap;
+}
+
+.character:hover {
+    -unity-background-image-tint-color: #FFFFFF;
+    border-color: #9C6D48;
+    width: 148px;
+    height: 148px;
+}
+
+.searchBox {
+    color: #8A8A8A;
+    margin-top: 30px;
+    margin-bottom: 3px;
+    font-size: 14px;
+    -unity-font-style: bold;
+}
+
+.searchBox > .unity-base-text-field__input {
+    color: gray;
+    background-color: #242424;
+    padding: 10px;
+    border-color: initial;
+}
+
+.searchBox > .unity-base-text-field__input:hover {
+    border-color: #777777;
+}
+
+.searchBox > .unity-base-text-field__input:focus {
+    color: #cbcbcb;
+    border-color: #777777;
+}
+
+.suffix {
+    width: 150px;
+}
+
+.suffix > .unity-base-text-field__input {
+    font-size: 14px;
+    border-color: initial;
+}
+
+.suffixLabel {
+    font-size: 14px;
+    align-self: center;
+}
+
+.defaultSuffix {
+    font-size: 14px;
+    -unity-paragraph-spacing: 30px;
+    padding: 3px;
+    padding-left: 0;
+}
+
+.rangeLabel {
+    font-size: 14px;
+    -unity-font-style: bold;
+    align-self: center;
+}
+
+.ageRange {
+    flex-grow: 1;
+}
+
+.unity-min-max-slider__dragger {
+    background-image: none;
+    background-color: gray;
+}

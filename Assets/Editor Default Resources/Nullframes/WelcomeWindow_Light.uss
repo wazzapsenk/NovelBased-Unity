@@ -1,0 +1,67 @@
+.logo {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/intrigues.png?fileID=21300000&guid=bd90b647656c31442b3f5e90841f59a4&type=3#intrigues');
+    -unity-background-image-tint-color: #242424;
+}
+
+.pdf {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/pdf.png?fileID=2800000&guid=bff83a00960154149b9c691fb4488840&type=3#pdf');
+    -unity-background-image-tint-color: rgba(48, 48, 48, 255);
+}
+
+.mail {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/mail.png?fileID=21300000&guid=7f3f90bd5ed7054429db386aa48de5a4&type=3#mail');
+    -unity-background-image-tint-color: rgba(48, 48, 48, 255);
+}
+
+.node {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/node.png?fileID=21300000&guid=03dee6370788e2747821ed402e554c77&type=3#node');
+    -unity-background-image-tint-color: brown;
+}
+
+.tree {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/rate.png');
+    -unity-background-image-tint-color: rgba(48, 48, 48, 255);
+}
+
+.unity-toggle__checkmark {
+    background-color: initial;
+    border-color: whitesmoke;
+    -unity-background-image-tint-color: rgb(200, 200, 200);
+}
+
+.titleContainer {
+    background-color: #C8C8C8;
+}
+
+.tagField {
+    background-color: rgb(192, 192, 192);
+}
+
+.bottomField {
+    background-color: rgb(192, 192, 192);
+}
+
+.titleLabel {
+}
+
+.labelClr {
+}
+
+.bgContainer {
+    background-color: rgb(200, 200, 200);
+}
+
+.url_icon {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/url_icon.png');
+    -unity-background-image-tint-color: #4553e0;
+    width: 18px;
+    height: 18px;
+}
+
+.phpbb {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/phpbb.png');
+    -unity-background-image-tint-color: rgba(48, 48, 48, 255);
+    align-items: center;
+    width: 108px;
+    height: 36px;
+}

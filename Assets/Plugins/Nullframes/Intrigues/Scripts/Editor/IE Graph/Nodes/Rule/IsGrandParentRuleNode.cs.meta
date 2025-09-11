@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: de272f24b0b2e5c4690e24d01d73faef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Scripts/Editor/IE Graph/Nodes/Rule/IsGrandParentRuleNode.cs
+  uploadId: 763440

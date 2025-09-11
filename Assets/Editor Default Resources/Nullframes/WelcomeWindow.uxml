@@ -1,0 +1,78 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Editor%20Default%20Resources/Nullframes/WelcomeWindow_Dark.uss?fileID=7433441132597879392&amp;guid=abe0bde4b88cd7243a76019f09c44555&amp;type=3#WelcomeWindow_Dark" />
+    <ui:VisualElement class="bgContainer" style="flex-grow: 1;">
+        <ui:VisualElement class="titleContainer" style="flex-direction: column; align-items: center; justify-content: center; padding-left: 6px; padding-right: 6px; padding-top: 6px; padding-bottom: 6px; border-bottom-left-radius: 0; border-bottom-right-radius: 0; border-top-left-radius: 0; border-top-right-radius: 0;">
+            <ui:VisualElement class="logo" style="width: 400px; height: 72px; flex-direction: column;" />
+        </ui:VisualElement>
+        <ui:VisualElement class="tagField" style="justify-content: center; align-items: center; padding-left: 6px; padding-right: 6px; padding-top: 6px; padding-bottom: 6px;">
+            <ui:Label text="Welcome" display-tooltip-when-elided="true" class="titleLabel" style="-unity-font-style: bold; font-size: 20px;" />
+        </ui:VisualElement>
+        <ui:VisualElement style="justify-content: center; align-items: center; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px;">
+            <ui:Label text="&lt;b&gt;Thank you&lt;/b&gt; for purchasing &lt;b&gt;Intrigues!&lt;/b&gt; After experiencing our tool, please remember to leave a &lt;b&gt;review&lt;/b&gt; on the &lt;b&gt;Asset Store&lt;/b&gt; page. Your &lt;b&gt;feedback&lt;/b&gt; is invaluable and will greatly support the continued development and improvement of &lt;b&gt;Intrigues.&lt;/b&gt; We truly appreciate your support!" display-tooltip-when-elided="true" class="labelClr" style="-unity-font-style: normal; white-space: normal; -unity-text-align: upper-center; font-size: 16px;" />
+        </ui:VisualElement>
+        <ui:VisualElement style="align-items: center; margin-bottom: 10px; flex-direction: row; justify-content: center;">
+            <ui:VisualElement class="tree" style="align-items: center; width: 130px; height: 24px;" />
+        </ui:VisualElement>
+        <ui:VisualElement class="tagField" style="padding-left: 6px; padding-right: 6px; padding-top: 6px; padding-bottom: 6px; flex-direction: column; flex-wrap: nowrap; align-items: center;">
+            <ui:Label text="Getting Started" display-tooltip-when-elided="true" class="titleLabel" style="-unity-font-style: bold; font-size: 20px;" />
+        </ui:VisualElement>
+        <ui:VisualElement style="justify-content: center; align-items: center; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px;">
+            <ui:Label text="Before you begin, make sure to explore the tutorial videos and documentation for insights on utilizing Intrigues. For added support, join our community. If you need help, posting in the forum guarantees you direct assistance from our team. Dive in and let&apos;s create something amazing together!" display-tooltip-when-elided="true" class="labelClr" style="-unity-font-style: normal; white-space: normal; -unity-text-align: upper-center; font-size: 16px;" />
+        </ui:VisualElement>
+        <ui:VisualElement style="align-items: center; margin-bottom: 10px;">
+            <ui:VisualElement style="flex-grow: 1; flex-direction: row;">
+                <ui:VisualElement name="pdf" class="pdf" style="align-items: center; width: 36px; height: 36px; margin-right: 20px;" />
+                <ui:VisualElement name="phpbb" class="phpbb" style="margin-left: 20px;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement class="tagField" style="justify-content: center; align-items: center; padding-left: 6px; padding-right: 6px; padding-top: 6px; padding-bottom: 6px;">
+            <ui:Label text="Support" display-tooltip-when-elided="true" class="titleLabel" style="-unity-font-style: bold; font-size: 20px;" />
+        </ui:VisualElement>
+        <ui:VisualElement style="justify-content: center; align-items: center; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px;">
+            <ui:Label text="If you encounter a problem while using Intrigues, you can send an email for 24/7 support, and you will receive a response within 2 business days at the latest. Additionally, for immediate assistance, feel free to seek help from our community by posting in the forum, where our team and fellow users are ready to support you." display-tooltip-when-elided="true" class="labelClr" style="-unity-font-style: normal; white-space: normal; -unity-text-align: upper-center; font-size: 16px;" />
+        </ui:VisualElement>
+        <ui:VisualElement style="justify-content: center; align-items: center; padding-left: 10px; padding-right: 10px; padding-top: 0; padding-bottom: 0;">
+            <ui:Label text="wlabsocks@gmail.com" display-tooltip-when-elided="true" class="labelClr" style="-unity-font-style: normal; white-space: normal; -unity-text-align: upper-center; font-size: 16px;" />
+        </ui:VisualElement>
+        <ui:VisualElement style="align-items: center; margin-bottom: 10px;">
+            <ui:VisualElement name="mail" class="mail" style="align-items: center; width: 36px; height: 36px;" />
+        </ui:VisualElement>
+        <ui:VisualElement class="bottomField" style="flex-grow: 1; flex-direction: column; align-items: flex-start; justify-content: flex-start; border-left-width: 0; border-right-width: 0; border-top-width: 1px; border-bottom-width: 0; border-left-color: rgb(31, 27, 27); border-right-color: rgb(31, 27, 27); border-top-color: rgb(31, 27, 27); border-bottom-color: rgb(31, 27, 27); padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px;">
+            <ui:Toggle label="Debug Mode" name="debug_mode" style="-unity-font-style: bold; margin-top: 5px; flex-direction: row-reverse;" />
+            <ui:Toggle label="Don&apos;t show at startup" name="startup" style="-unity-font-style: bold; margin-top: 5px; flex-direction: row-reverse;" />
+            <ui:Label text="——————————————————" display-tooltip-when-elided="true" style="color: rgb(99, 99, 99);" />
+            <ui:VisualElement style="flex-direction: row;">
+                <ui:VisualElement name="ai_url" class="url_icon" />
+                <ui:Toggle label="Advanced AI System (in progress)" name="AI" focusable="true" style="-unity-font-style: bold; margin-top: 5px; flex-direction: row-reverse;" />
+            </ui:VisualElement>
+            <ui:VisualElement style="flex-direction: row;">
+                <ui:VisualElement name="gpt_url" class="url_icon" />
+                <ui:Toggle label="ChatGPT Integration (in progress)" name="GPT" focusable="true" style="-unity-font-style: bold; margin-top: 5px; flex-direction: row-reverse;" />
+            </ui:VisualElement>
+            <ui:VisualElement style="flex-direction: row;">
+                <ui:VisualElement name="vote_url" class="url_icon" />
+                <ui:Toggle label="Vote System (queue)" name="VOTE" focusable="true" style="-unity-font-style: bold; margin-top: 5px; flex-direction: row-reverse;" />
+            </ui:VisualElement>
+            <ui:VisualElement style="flex-direction: row;">
+                <ui:VisualElement name="quests_url" class="url_icon" />
+                <ui:Toggle label="Expansion: QUESTS (queue)" name="QUEST" focusable="true" style="-unity-font-style: bold; margin-top: 5px; flex-direction: row-reverse;" />
+            </ui:VisualElement>
+            <ui:VisualElement style="flex-direction: row;">
+                <ui:VisualElement name="mp_url" class="url_icon" />
+                <ui:Toggle label="Multiplayer Integration (queue)" name="MP" focusable="true" style="-unity-font-style: bold; margin-top: 5px; flex-direction: row-reverse;" />
+            </ui:VisualElement>
+            <ui:VisualElement style="flex-grow: 1; flex-direction: row; justify-content: space-between; align-items: flex-end; flex-shrink: 1; width: 100%; padding-left: 6px; padding-right: 6px; padding-top: 6px; padding-bottom: 6px;">
+                <ui:Label text="VERSION: 1.0.0" display-tooltip-when-elided="true" name="version" style="font-size: 12px; -unity-font-style: bold;" />
+                <ui:VisualElement style="align-items: stretch; justify-content: flex-start; flex-direction: row;">
+                    <ui:Label text="Release Notes" display-tooltip-when-elided="true" name="releaseNotes" style="font-size: 12px; color: rgb(108, 128, 221); -unity-font-style: bold-and-italic;" />
+                    <ui:Label text="▌" display-tooltip-when-elided="true" class="separator" />
+                    <ui:Label text="Web Page" display-tooltip-when-elided="true" name="webPage" style="font-size: 12px; color: rgb(108, 128, 221); -unity-font-style: bold-and-italic;" />
+                    <ui:Label text="▌" display-tooltip-when-elided="true" class="separator" />
+                    <ui:Label text="Review Us!" display-tooltip-when-elided="true" name="reviewUs" style="font-size: 12px; color: rgb(108, 128, 221); -unity-font-style: bold-and-italic;" />
+                    <ui:Label text="▌" display-tooltip-when-elided="true" class="separator" />
+                    <ui:Label text="Forum" display-tooltip-when-elided="true" name="forum" style="font-size: 12px; color: rgb(108, 128, 221); -unity-font-style: bold-and-italic;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,171 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Editor%20Default%20Resources/Nullframes/UIEditor_Dark.uss?fileID=7433441132597879392&amp;guid=519baa5ca18ea62469b84716daa7d6d3&amp;type=3#UIEditor_Dark" />
+    <ui:VisualElement class="background" style="flex-grow: 1; border-left-color: rgb(154, 154, 154); border-right-color: rgb(154, 154, 154); border-top-color: rgb(154, 154, 154); border-bottom-color: rgb(154, 154, 154); border-left-width: 1px; border-right-width: 1px;">
+        <ui:Label text="UI EDITOR" display-tooltip-when-elided="true" class="titleLbl" style="-unity-text-align: upper-center; border-left-color: rgb(154, 154, 154); border-right-color: rgb(154, 154, 154); border-top-color: rgb(154, 154, 154); border-bottom-color: rgb(154, 154, 154); border-left-width: 0; border-right-width: 0; border-top-width: 1px; border-bottom-width: 1px; padding-left: 0; padding-right: 0; padding-top: 10px; padding-bottom: 10px;" />
+        <ui:VisualElement style="flex-direction: row; margin-bottom: 5px; border-bottom-color: rgb(96, 96, 96); border-bottom-width: 1px; padding-bottom: 5px; margin-top: 5px; flex-shrink: 0;">
+            <ui:Button text="MAIN" display-tooltip-when-elided="true" name="main_btn" class="tab_btn_selected" />
+            <ui:Button text="DIALOGUE" display-tooltip-when-elided="true" name="dialogue_btn" class="tab_btn" style="flex-grow: 1;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="mainTab" style="flex-grow: 1; display: flex;">
+            <ui:VisualElement name="PAGE1" style="flex-grow: 1; padding-left: 50px; padding-right: 50px; padding-top: 50px; padding-bottom: 50px; display: none;">
+                <ui:Label text="PANEL ELEMENTS" display-tooltip-when-elided="true" class="title_lbl2" style="font-size: 16px; -unity-font-style: bold;" />
+                <ui:Label text="—————" display-tooltip-when-elided="true" />
+                <uie:ObjectField label="Canvas*" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="canvasField" style="font-size: 14px; margin-bottom: 3px;" />
+                <ui:VisualElement style="flex-direction: row; justify-content: center;">
+                    <ui:Button text="Clear" display-tooltip-when-elided="true" name="clearBtn" class="clearBtn" style="flex-grow: 1;" />
+                    <ui:Button text="Load" display-tooltip-when-elided="true" name="loadBtn" class="loadBtn" style="flex-grow: 1;" />
+                </ui:VisualElement>
+                <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-top: 10px; margin-bottom: 10px;" />
+                <uie:ObjectField label="Actor Panel*" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="actorPanel" style="font-size: 14px; margin-bottom: 3px;" />
+                <uie:ObjectField label="Clan Panel*" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="clanPanel" style="font-size: 14px; margin-bottom: 3px;" />
+                <uie:ObjectField label="Active Schemes Panel*" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="activeSchemesPanel" style="font-size: 14px; margin-bottom: 3px;" />
+                <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-top: 10px; margin-bottom: 10px;" />
+                <uie:FloatField label="Refresh Rate(sc)*" value="2" is-delayed="false" name="refreshRate" style="font-size: 14px; margin-bottom: 3px;" />
+                <ui:Label text=": The frequency at which UI content is updated." display-tooltip-when-elided="true" class="tooltip" />
+            </ui:VisualElement>
+            <ui:VisualElement name="PAGE2" style="flex-grow: 1; padding-left: 50px; padding-right: 50px; padding-top: 50px; padding-bottom: 50px; display: none;">
+                <ui:ScrollView>
+                    <ui:Label text="ACTOR ELEMENTS" display-tooltip-when-elided="true" class="title_lbl2" />
+                    <ui:Label text="————————————" display-tooltip-when-elided="true" />
+                    <uie:ObjectField label="Actor Portrait" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="actorPortrait" style="font-size: 14px;" />
+                    <ui:Label text="The portrait of the person whose profile is displayed." display-tooltip-when-elided="true" class="tooltip" />
+                    <uie:ObjectField label="Actor Name" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="actorName" style="font-size: 14px;" />
+                    <uie:ObjectField label="Actor Age" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="actorAge" style="font-size: 14px;" />
+                    <uie:ObjectField label="Relationship" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="relationship" style="font-size: 14px;" />
+                    <ui:Label text="For example: Your mother, Your daughter, etc." display-tooltip-when-elided="true" class="tooltip" />
+                    <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-top: 10px; margin-bottom: 10px;" />
+                    <uie:ObjectField label="Policy Content Item" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="familyPolicyItem" style="font-size: 14px; margin-bottom: 3px;" />
+                    <uie:ObjectField label="-- Policy Name" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="familyPolicyName" style="font-size: 14px; margin-bottom: 3px;" />
+                    <uie:ObjectField label="-- Policy Icon" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="familyPolicyIcon" style="font-size: 14px; margin-bottom: 3px;" />
+                    <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-top: 10px; margin-bottom: 10px;" />
+                    <uie:ObjectField label="Role" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="actorRole" style="font-size: 14px;" />
+                    <ui:Label text="The role of the person in the clan, as displayed on their profile." display-tooltip-when-elided="true" class="tooltip" />
+                    <uie:ObjectField label="Role Icon" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="actorRoleIcon" style="font-size: 14px;" />
+                    <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-top: 10px; margin-bottom: 10px;" />
+                    <uie:ObjectField label="Culture" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="cultureName" style="font-size: 14px;" />
+                    <ui:Label text="The culture of the person whose profile is displayed." display-tooltip-when-elided="true" class="tooltip" />
+                    <uie:ObjectField label="Culture Icon" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="actorCultureIcon" style="font-size: 14px;" />
+                    <uie:ObjectField label="Culture Icon" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="cultureIcon" style="font-size: 14px; display: none;" />
+                    <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-bottom: 10px; margin-top: 10px;" />
+                    <uie:ObjectField label="Clan Button" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="clanButton" style="font-size: 14px;" />
+                    <ui:Label text="A button that redirects to the clan page of the person whose profile is displayed." display-tooltip-when-elided="true" class="tooltip" />
+                    <uie:ObjectField label="Clan Banner" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="clanBanner" style="font-size: 14px;" />
+                    <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-bottom: 10px; margin-top: 10px;" />
+                    <uie:ObjectField label="Close Button" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="actorCloseBtn" style="font-size: 14px;" />
+                    <ui:Label text="The button that closes the page." display-tooltip-when-elided="true" class="tooltip" />
+                    <uie:ObjectField label="Previous Button" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="actorPreviousBtn" style="font-size: 14px;" />
+                    <ui:Label text="The button that navigates to the previous page." display-tooltip-when-elided="true" class="tooltip" />
+                    <ui:Label text="FAMILY ELEMENTS" display-tooltip-when-elided="true" class="title_lbl" />
+                    <ui:Label text="————————————" display-tooltip-when-elided="true" />
+                    <ui:ScrollView>
+                        <ui:VisualElement name="categoryField">
+                            <ui:DropdownField label="Category" index="0" choices="Parent,Child,Spouse,Grandparent,Grandchild,Sibling,Nephew,Niece,Uncle,Aunt,BrotherInLaw,SisterInLaw" style="font-size: 14px;" />
+                            <uie:ObjectField label="Family Actor Button" type="UnityEngine.RectTransform, UnityEngine.CoreModule" style="font-size: 14px;" />
+                            <uie:ObjectField label="Family Actor Portrait" type="UnityEngine.RectTransform, UnityEngine.CoreModule" style="font-size: 14px;" />
+                        </ui:VisualElement>
+                    </ui:ScrollView>
+                    <ui:Button text="Add Category" display-tooltip-when-elided="true" name="addCategoryBtn" class="addCategory" />
+                    <ui:Label text="SCHEME ELEMENTS" display-tooltip-when-elided="true" class="title_lbl" style="font-size: 16px; -unity-font-style: bold; margin-top: 28px;" />
+                    <ui:Label text="————————————" display-tooltip-when-elided="true" />
+                    <uie:ObjectField label="Scheme Content Item" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="schemeContentItem" style="font-size: 14px;" />
+                    <uie:ObjectField label="Scheme Name" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="schemeName" style="font-size: 14px;" />
+                    <uie:ObjectField label="Scheme Description" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="schemeDesc" style="font-size: 14px;" />
+                    <uie:ObjectField label="Scheme Icon" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="schemeIcon" style="font-size: 14px;" />
+                    <uie:ObjectField label="Scheme Trigger Button" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="schemeBtn" style="font-size: 14px;" />
+                    <ui:Label text="The trigger button to initiate a scheme. (Customizable later.)" display-tooltip-when-elided="true" class="tooltip" />
+                </ui:ScrollView>
+            </ui:VisualElement>
+            <ui:VisualElement name="PAGE3" style="flex-grow: 1; padding-left: 50px; padding-right: 50px; padding-top: 50px; padding-bottom: 50px; display: none;">
+                <ui:ScrollView>
+                    <ui:Label text="CLAN ELEMENTS" display-tooltip-when-elided="true" class="title_lbl2" style="font-size: 16px; -unity-font-style: bold;" />
+                    <ui:Label text="—————" display-tooltip-when-elided="true" />
+                    <uie:ObjectField label="Clan Name" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="clanName" style="font-size: 14px; margin-bottom: 3px;" />
+                    <uie:ObjectField label="Clan Description" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="clanDesc" style="font-size: 14px; margin-bottom: 3px;" />
+                    <uie:ObjectField label="Clan Icon" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="clanIcon" style="font-size: 14px; margin-bottom: 3px;" />
+                    <uie:ObjectField label="Member Count" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="memberCount" style="font-size: 14px; margin-bottom: 3px;" />
+                    <uie:ObjectField label="Clan Culture" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="clanCulture" style="font-size: 14px; margin-bottom: 3px;" />
+                    <uie:ObjectField label="Clan Culture Icon" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="clanCultureIcon" style="font-size: 14px; margin-bottom: 3px;" />
+                    <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-top: 10px; margin-bottom: 10px;" />
+                    <uie:ObjectField label="Policy Content Item" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="policyItem" style="font-size: 14px; margin-bottom: 3px;" />
+                    <uie:ObjectField label="-- Policy Name" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="policyName" style="font-size: 14px; margin-bottom: 3px;" />
+                    <uie:ObjectField label="-- Policy Icon" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="policyIcon" style="font-size: 14px; margin-bottom: 3px;" />
+                    <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-top: 10px; margin-bottom: 10px;" />
+                    <uie:ObjectField label="Close Button" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="clanCloseBtn" style="font-size: 14px;" />
+                    <ui:Label text="The button that closes the page." display-tooltip-when-elided="true" class="tooltip" />
+                    <uie:ObjectField label="Previous Button" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="clanPreviousBtn" style="font-size: 14px;" />
+                    <ui:Label text="The button that navigates to the previous page." display-tooltip-when-elided="true" class="tooltip" />
+                    <ui:Label text="MEMBER ELEMENTS" display-tooltip-when-elided="true" style="font-size: 16px; -unity-font-style: bold; margin-top: 28px;" />
+                    <ui:Label text="————————————" display-tooltip-when-elided="true" />
+                    <ui:ScrollView>
+                        <ui:VisualElement name="clanCategoryField">
+                            <ui:DropdownField label="Category" index="0" choices="Parent,Child,Spouse,Grandparent,Grandchild,Sibling,Nephew,Niece,Uncle,Aunt,BrotherInLaw,SisterInLaw" name="clanMemberCategory" style="font-size: 14px;" />
+                            <uie:ObjectField label="Clan Actor Button" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="clanActorButton" style="font-size: 14px;" />
+                            <uie:ObjectField label="Clan Actor Portrait" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="clanActorPortrait" style="font-size: 14px;" />
+                        </ui:VisualElement>
+                    </ui:ScrollView>
+                    <ui:Button text="Add Category" display-tooltip-when-elided="true" name="addClanCategoryBtn" class="addCategory" />
+                </ui:ScrollView>
+            </ui:VisualElement>
+            <ui:VisualElement name="PAGE4" style="flex-grow: 1; padding-left: 50px; padding-right: 50px; padding-top: 50px; padding-bottom: 50px; display: flex;">
+                <ui:Label text="SCHEME ELEMENTS" display-tooltip-when-elided="true" class="title_lbl2" style="font-size: 16px; -unity-font-style: bold;" />
+                <ui:Label text="—————" display-tooltip-when-elided="true" />
+                <uie:ObjectField label="Scheme Content Item" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="_schemeItem" style="font-size: 14px; margin-bottom: 3px;" />
+                <uie:ObjectField label="-- Scheme Name" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="_schemeName" style="font-size: 14px; margin-bottom: 3px;" />
+                <uie:ObjectField label="-- Scheme Description" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="_schemeDescription" style="font-size: 14px; margin-bottom: 3px;" />
+                <uie:ObjectField label="-- Scheme Icon" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="_schemeIcon" style="font-size: 14px; margin-bottom: 3px;" />
+                <uie:ObjectField label="-- Scheme Objective" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="_schemeObjective" style="font-size: 14px; margin-bottom: 3px;" />
+                <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-top: 10px; margin-bottom: 10px;" />
+                <uie:ObjectField label="-- Conspirator Button" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="_conspiratorBtn" style="font-size: 14px; margin-bottom: 3px;" />
+                <uie:ObjectField label="-- Conspirator Portrait" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="_conspiratorPortrait" style="font-size: 14px; margin-bottom: 3px;" />
+                <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-top: 10px; margin-bottom: 10px;" />
+                <uie:ObjectField label="-- Target Button" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="_targetBtn" style="font-size: 14px; margin-bottom: 3px;" />
+                <uie:ObjectField label="-- Target Portrait" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="_targetPortrait" style="font-size: 14px; margin-bottom: 3px;" />
+                <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-top: 10px; margin-bottom: 10px;" />
+                <uie:ObjectField label="Close Button" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="schemesCloseBtn" style="font-size: 14px;" />
+                <ui:Label text="The button that closes the page." display-tooltip-when-elided="true" class="tooltip" />
+                <uie:ObjectField label="Previous Button" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="schemesPreviousBtn" style="font-size: 14px;" />
+                <ui:Label text="The button that navigates to the previous page." display-tooltip-when-elided="true" class="tooltip" />
+            </ui:VisualElement>
+            <ui:VisualElement style="flex-direction: column-reverse;">
+                <ui:VisualElement class="bottom" style="flex-direction: row; justify-content: center;">
+                    <ui:Button text="&lt;" display-tooltip-when-elided="true" name="prevBtn" class="prevBtn pageBtn" style="font-size: 16px; position: relative;" />
+                    <ui:Button text="&gt;" display-tooltip-when-elided="true" name="nextBtn" class="nextBtn pageBtn" style="font-size: 16px;" />
+                    <ui:Button text="Setup" display-tooltip-when-elided="true" name="setupBtn" class="setupBtn" style="-unity-font-style: bold; border-top-left-radius: 0; border-bottom-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; margin-right: 0; margin-left: 0; margin-top: 0; margin-bottom: 0;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="dialogueTab" style="flex-grow: 1; display: none;">
+            <ui:VisualElement style="flex-grow: 1; padding-left: 50px; padding-right: 50px; padding-top: 50px; padding-bottom: 50px; display: flex;">
+                <ui:Label text="PANEL ELEMENTS" display-tooltip-when-elided="true" class="title_lbl2" style="font-size: 16px; -unity-font-style: bold;" />
+                <ui:Label text="—————" display-tooltip-when-elided="true" />
+                <uie:ObjectField label="Canvas*" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="dialogueCanvas" style="font-size: 14px; margin-bottom: 3px;" />
+                <ui:Label text=": Canvas containing the Dialog Window." display-tooltip-when-elided="true" class="tooltip" />
+                <ui:VisualElement style="flex-direction: row; justify-content: center;">
+                    <ui:Button text="Clear" display-tooltip-when-elided="true" name="clearDialogue" class="clearBtn" style="flex-grow: 1;" />
+                    <ui:Button text="Load" display-tooltip-when-elided="true" name="loadDialogue" class="loadBtn" style="flex-grow: 1;" />
+                </ui:VisualElement>
+                <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-top: 10px; margin-bottom: 10px;" />
+                <uie:ObjectField label="Dialogue Panel*" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="dialoguePanel" style="font-size: 14px; margin-bottom: 3px;" />
+                <ui:Label text=": Dialog Panel located within the Canvas." display-tooltip-when-elided="true" class="tooltip" />
+                <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-top: 10px; margin-bottom: 10px;" />
+                <uie:ObjectField label="Title Label*" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="dialogueTitle" style="font-size: 14px; margin-bottom: 3px;" />
+                <uie:ObjectField label="Content Label*" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="dialogueContent" style="font-size: 14px; margin-bottom: 3px;" />
+                <uie:ObjectField label="Counter Label*" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="dialogueCounter" style="font-size: 14px; margin-bottom: 3px;" />
+                <ui:Label text=": Text displaying the remaining time to make a choice." display-tooltip-when-elided="true" class="tooltip" />
+                <uie:ObjectField label="Theme" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="theme" style="font-size: 14px; margin-bottom: 3px;" />
+                <ui:Label text=": Dialogue panel background image." display-tooltip-when-elided="true" class="tooltip" />
+                <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-top: 10px; margin-bottom: 10px;" />
+                <uie:ObjectField label="Choice Layout Item*" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="dialogueChoiceLayout" style="font-size: 14px; margin-bottom: 3px;" />
+                <uie:ObjectField label="- Choice Button*" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="dialogueChoiceButton" style="font-size: 14px; margin-bottom: 3px;" />
+                <uie:ObjectField label="- Choice Text*" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="dialogueChoiceText" style="font-size: 14px; margin-bottom: 3px;" />
+                <uie:ObjectField label="- Choice Icon*" type="UnityEngine.RectTransform, UnityEngine.CoreModule" name="dialogueChoiceIcon" style="font-size: 14px; margin-bottom: 3px;" />
+                <ui:Label text="————————————" display-tooltip-when-elided="true" style="margin-top: 10px; margin-bottom: 10px;" />
+            </ui:VisualElement>
+            <ui:VisualElement style="flex-direction: column-reverse;">
+                <ui:VisualElement class="bottom" style="flex-direction: row; justify-content: center;">
+                    <ui:Button text="Setup" display-tooltip-when-elided="true" name="setupDialogueBtn" class="setupBtn" style="-unity-font-style: bold; border-top-left-radius: 0; border-bottom-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; margin-right: 0; margin-left: 0; margin-top: 0; margin-bottom: 0;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

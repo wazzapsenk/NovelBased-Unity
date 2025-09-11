@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e2fb7084e8fbbea4ba1dba626ed8263a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Scripts/Intrigue System UI/TabGroup/TabButton.cs
+  uploadId: 763440

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: abe0bde4b88cd7243a76019f09c44555
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Editor Default Resources/Nullframes/WelcomeWindow_Dark.uss
+  uploadId: 763440

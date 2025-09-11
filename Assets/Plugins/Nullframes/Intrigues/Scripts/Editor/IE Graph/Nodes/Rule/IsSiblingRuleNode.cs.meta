@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e28b17ee8a4b498438fc97d38e382d3f
+timeCreated: 1660697611
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Scripts/Editor/IE Graph/Nodes/Rule/IsSiblingRuleNode.cs
+  uploadId: 763440

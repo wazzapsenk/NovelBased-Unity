@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7e0fe5376925d2242a9928efc477ffd1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Editor Default Resources/Nullframes/AssetDb_Light.uss
+  uploadId: 763440

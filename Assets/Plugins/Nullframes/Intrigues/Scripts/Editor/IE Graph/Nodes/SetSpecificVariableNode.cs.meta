@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1aabf86b825223e48917dc05ed015973
+timeCreated: 1660692047
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Scripts/Editor/IE Graph/Nodes/SetSpecificVariableNode.cs
+  uploadId: 763440

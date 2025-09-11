@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a68bc9be9ece09d4db0a004a6c41b59c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Editor Default Resources/Nullframes/GraphView_DownTop.uss
+  uploadId: 763440

@@ -1,0 +1,58 @@
+.searchField {
+    -unity-font-style: normal;
+    min-height: 20px;
+    border-left-color: rgb(111, 111, 111);
+    border-right-color: rgb(111, 111, 111);
+    border-top-color: rgb(111, 111, 111);
+    border-bottom-color: rgb(111, 111, 111);
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-radius: 0;
+    background-color: rgba(0, 0, 0, 0);
+    -unity-background-scale-mode: stretch-to-fill;
+}
+
+.titleContainer {
+    background-color: rgba(129, 168, 101, 0.2);
+}
+
+.titleTexture {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/localise.png');
+    width: 92px;
+    height: 92px;
+    margin-top: 0;
+    opacity: 1;
+    margin-bottom: 0;
+}
+
+.inspector-keys-dropdown-field {
+    opacity: 0.6;
+    background-color: rgb(123, 109, 95);
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: rgb(55, 55, 55);
+    -unity-font-style: bold;
+    font-size: 14px;
+    min-height: 30px;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.align-field {
+    align-items: center;
+}
+
+.title-field {
+    font-size: 18px;
+    -unity-font-style: bold;
+    margin-bottom: 5px;
+}
+
+.box-field {
+    border-color: #969696;
+    border-width: 1px;
+    padding: 10px;
+    margin: 10px;
+}

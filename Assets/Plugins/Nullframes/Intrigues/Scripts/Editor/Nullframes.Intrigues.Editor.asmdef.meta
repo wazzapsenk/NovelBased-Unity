@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 794ad30ae738e874d83fafb9a273d6aa
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Scripts/Editor/Nullframes.Intrigues.Editor.asmdef
+  uploadId: 763440

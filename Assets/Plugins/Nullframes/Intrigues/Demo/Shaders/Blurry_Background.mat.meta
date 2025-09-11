@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42c69103857a5d8409fdaf3ba6fe906a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Demo/Shaders/Blurry_Background.mat
+  uploadId: 763440

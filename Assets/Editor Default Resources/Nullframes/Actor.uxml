@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Editor%20Default%20Resources/Nullframes/ActorStyle_Dark.uss?fileID=7433441132597879392&amp;guid=ea0213b97a148e94bb875528bfa215a8&amp;type=3#ActorStyle_Dark" />
+    <ui:VisualElement name="titleContainer" class="titleContainer" style="max-height: 200px; flex-grow: 1; justify-content: center; flex-direction: row; border-bottom-width: 0; border-bottom-color: rgb(171, 171, 171); border-top-color: rgb(171, 171, 171); border-top-width: 0; border-left-color: rgb(171, 171, 171); border-right-color: rgb(171, 171, 171); border-left-width: 0; border-right-width: 0;">
+        <ui:VisualElement style="justify-content: center;">
+            <ui:VisualElement name="titleTexture" class="titleTexture" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="container" style="flex-grow: 1; background-color: rgba(48, 48, 48, 0); border-bottom-color: rgb(171, 171, 171); border-bottom-width: 0; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px;">
+        <ui:Label text="To make changes, add the &apos;Intrigue Manager&apos; to the scene." display-tooltip-when-elided="true" name="ManagerNotExists" style="-unity-font-style: bold; font-size: 16px; white-space: normal; -unity-text-align: upper-center; display: none; visibility: visible;" />
+        <ui:Label text="Database not found. Please check the Intrigue Manager." display-tooltip-when-elided="true" name="DatabaseNotExists" style="-unity-font-style: bold; font-size: 16px; white-space: normal; -unity-text-align: upper-center; display: none; visibility: visible;" />
+    </ui:VisualElement>
+</ui:UXML>

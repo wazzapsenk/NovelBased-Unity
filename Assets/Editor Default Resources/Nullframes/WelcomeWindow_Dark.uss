@@ -1,0 +1,72 @@
+.logo {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/intrigues.png?fileID=21300000&guid=bd90b647656c31442b3f5e90841f59a4&type=3#intrigues');
+    -unity-background-image-tint-color: rgb(219, 219, 219);
+}
+
+.pdf {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/pdf.png?fileID=2800000&guid=bff83a00960154149b9c691fb4488840&type=3#pdf');
+}
+
+.mail {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/mail.png?fileID=21300000&guid=7f3f90bd5ed7054429db386aa48de5a4&type=3#mail');
+}
+
+.node {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/node.png?fileID=21300000&guid=03dee6370788e2747821ed402e554c77&type=3#node');
+}
+
+.tree {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/rate.png?fileID=2800000&guid=b8608bf80a954724eb8dbf00ef99a1d6&type=3#rate');
+}
+
+.unity-toggle__checkmark {
+    background-color: initial;
+    border-color: whitesmoke;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    margin-right: 4px;
+}
+
+.titleContainer {
+    background-color: rgb(29, 29, 29);
+}
+
+.tagField {
+    background-color: rgb(77, 49, 48);
+}
+
+.bottomField {
+    background-color: rgb(29, 29, 29);
+}
+
+.titleLabel {
+}
+
+.labelClr {
+}
+
+.bgContainer {
+    background-color: rgb(43, 40, 39);
+}
+
+.separator {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: 6px;
+    color: rgb(63, 63, 63);
+}
+
+.url_icon {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/url_icon.png?fileID=2800000&guid=60c7db32377b590489b63fab487dbd49&type=3#url_icon');
+    -unity-background-image-tint-color: rgb(104, 119, 246);
+    width: 18px;
+    height: 18px;
+}
+
+.phpbb {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/phpbb.png');
+    align-items: center;
+    width: 108px;
+    height: 36px;
+}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 294790c76ebff614192fd0f7a3a92559
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Demo/Scripts/UI/Notification System/Text.controller
+  uploadId: 763440

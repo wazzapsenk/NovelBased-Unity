@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 8df9a2fbb8b4eb0419c20fdd6e86aa7e
+timeCreated: 1660733294
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229339
+  packageName: Intrigues
+  packageVersion: 1.0.62 Hotfix
+  assetPath: Assets/Plugins/Nullframes/Intrigues/Scripts/Editor/IE Graph/Nodes/Rule/SiblingCountRuleNode.cs
+  uploadId: 763440

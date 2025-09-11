@@ -1,0 +1,265 @@
+.scrollView {
+    flex-grow: 1;
+    flex-shrink: 1;
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    flex-direction: column;
+}
+
+.categoryField {
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.categoryLabel {
+    font-size: 14px;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(108, 108, 108);
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    flex-grow: 1;
+}
+
+.foldoutIcon {
+    width: 24px;
+    height: 24px;
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/leftArrow.png?fileID=2800000&guid=bcb54d63b30e414489a012f81d97cfca&type=3#leftArrow');
+    margin-top: -6px;
+    margin-right: -6px;
+    margin-bottom: -6px;
+    margin-left: -6px;
+    rotate: 270deg;
+}
+
+.assetPreview {
+    width: 92px;
+    height: 92px;
+    max-width: 92px;
+    max-height: 92px;
+    min-width: 92px;
+    min-height: 92px;
+    background-image: url('project://database/Assets/Plugins/Nullframes/Intrigues/Arts/Portraits/North/Male/northlander/north-m-northlander-adult-982348432.jpg?fileID=2800000&guid=73e381cb9ef2f1446b6030d7dc5a9732&type=3#north-m-northlander-adult-982348432');
+    margin-left: 3px;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 30px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-left-color: rgb(255, 223, 189);
+    border-right-color: rgb(255, 223, 189);
+    border-top-color: rgb(255, 223, 189);
+    border-bottom-color: rgb(255, 223, 189);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    align-items: center;
+}
+
+.assetPreview:hover {
+    width: 92px;
+    height: 92px;
+    max-width: 92px;
+    max-height: 92px;
+    min-width: 92px;
+    min-height: 92px;
+    background-image: url('project://database/Assets/Plugins/Nullframes/Intrigues/Arts/Portraits/North/Male/northlander/north-m-northlander-adult-982348432.jpg?fileID=2800000&guid=73e381cb9ef2f1446b6030d7dc5a9732&type=3#north-m-northlander-adult-982348432');
+    margin-left: 3px;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 30px;
+    -unity-background-image-tint-color: rgb(245, 207, 186);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-left-color: rgb(166, 236, 106);
+    border-right-color: rgb(166, 236, 106);
+    border-top-color: rgb(166, 236, 106);
+    border-bottom-color: rgb(166, 236, 106);
+    align-items: center;
+}
+
+.assetPreview.selected {
+    width: 92px;
+    height: 92px;
+    max-width: 92px;
+    max-height: 92px;
+    min-width: 92px;
+    min-height: 92px;
+    background-image: url('project://database/Assets/Plugins/Nullframes/Intrigues/Arts/Portraits/North/Male/northlander/north-m-northlander-adult-982348432.jpg?fileID=2800000&guid=73e381cb9ef2f1446b6030d7dc5a9732&type=3#north-m-northlander-adult-982348432');
+    margin-left: 3px;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 30px;
+    -unity-background-image-tint-color: rgb(245, 207, 186);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-left-color: rgb(205, 255, 0);
+    border-right-color: rgb(205, 255, 0);
+    border-top-color: rgb(205, 255, 0);
+    border-bottom-color: rgb(205, 255, 0);
+    align-items: center;
+}
+
+.assetField {
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: 14px;
+    margin-bottom: 14px;
+    margin-right: 8px;
+    margin-top: 8px;
+}
+
+.newCategoryBtn {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/d_CreateAddNew.png?fileID=2800000&guid=4a6a80a7eef42804688d33ca7e59ad7d&type=3#d_CreateAddNew');
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    width: 18px;
+    height: 18px;
+    min-width: 18px;
+    min-height: 18px;
+    max-width: 18px;
+    max-height: 18px;
+    background-color: rgba(88, 88, 88, 0);
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+}
+
+.newCategoryBtn:hover {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/d_CreateAddNew.png?fileID=2800000&guid=4a6a80a7eef42804688d33ca7e59ad7d&type=3#d_CreateAddNew');
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    width: 18px;
+    height: 18px;
+    min-width: 18px;
+    min-height: 18px;
+    max-width: 18px;
+    max-height: 18px;
+    background-color: rgba(88, 88, 88, 0);
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    -unity-background-image-tint-color: rgb(219, 218, 98);
+}
+
+.newCategoryBtn:active {
+    background-image: url('project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/d_CreateAddNew.png?fileID=2800000&guid=4a6a80a7eef42804688d33ca7e59ad7d&type=3#d_CreateAddNew');
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    width: 18px;
+    height: 18px;
+    min-width: 18px;
+    min-height: 18px;
+    max-width: 18px;
+    max-height: 18px;
+    background-color: rgba(88, 88, 88, 0);
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    -unity-background-image-tint-color: rgb(219, 118, 98);
+}
+
+.assetLabel {
+    font-size: 10px;
+    margin-top: 92px;
+    -unity-text-align: upper-center;
+    position: absolute;
+}
+
+.tagLabel {
+    -unity-text-align: upper-center;
+    font-size: 10px;
+    background-color: rgba(0, 0, 0, 0.68);
+    padding-right: 6px;
+    padding-left: 6px;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+
+.tagField {
+    font-size: 10px;
+    position: absolute;
+    width: 60px;
+}
+
+.footer {
+    flex-shrink: 0;
+    min-height: 30px;
+    background-color: rgb(43, 43, 43);
+    flex-direction: row;
+    align-items: center;
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+}

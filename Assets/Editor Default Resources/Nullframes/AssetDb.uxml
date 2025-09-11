@@ -1,0 +1,39 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Editor%20Default%20Resources/Nullframes/AssetDb_Dark.uss?fileID=7433441132597879392&amp;guid=fdcb6663b500b77479356db14404a88d&amp;type=3#AssetDb_Dark" />
+    <ui:VisualElement style="padding-top: 16px; padding-right: 16px; padding-bottom: 8px; padding-left: 16px; flex-shrink: 0;">
+        <uie:ObjectField label="Database" name="databaseField" style="align-items: center;" />
+    </ui:VisualElement>
+    <ui:VisualElement name="separator" style="flex-grow: 1; height: 1px; max-height: 1px; min-height: 1px; border-bottom-width: 1px; border-bottom-color: rgb(164, 164, 164); margin-top: 16px; margin-right: 16px; margin-bottom: 16px; margin-left: 16px;" />
+    <ui:VisualElement style="padding-top: 8px; padding-right: 16px; padding-bottom: 8px; padding-left: 16px; flex-direction: row; flex-shrink: 0;">
+        <ui:TextField picking-mode="Ignore" is-delayed="false" name="searchField" style="flex-grow: 2; flex-shrink: 1; min-width: 200px;">
+            <ui:Label text="Search..." display-tooltip-when-elided="true" picking-mode="Ignore" name="placeHolder" style="position: absolute; -unity-text-align: middle-left; margin-left: 5px; margin-top: 2px; color: rgb(115, 115, 115);" />
+        </ui:TextField>
+        <ui:TextField picking-mode="Ignore" is-delayed="false" name="newCategoryField" max-length="32" style="flex-grow: 1; flex-shrink: 1; min-width: 200px;">
+            <ui:Label text="New Category..." display-tooltip-when-elided="true" picking-mode="Ignore" name="placeHolder" style="position: absolute; -unity-text-align: middle-left; margin-left: 5px; margin-top: 2px; color: rgb(115, 115, 115);" />
+        </ui:TextField>
+        <ui:Button display-tooltip-when-elided="true" enable-rich-text="false" name="newCategoryBtn" class="newCategoryBtn" />
+    </ui:VisualElement>
+    <ui:VisualElement name="errorMsg" style="flex-direction: row; justify-content: center; align-items: center; display: none;">
+        <ui:VisualElement class="errorIcn" style="background-image: url(&apos;project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/error.png?fileID=2800000&amp;guid=1924489d71a17e84d8fe5e98adc9805d&amp;type=3#error&apos;); width: 32px; height: 32px; flex-direction: column;" />
+        <ui:Label text="No database assigned." display-tooltip-when-elided="true" style="margin-left: 5px; -unity-font-style: bold; font-size: 14px;" />
+    </ui:VisualElement>
+    <ui:VisualElement name="errorMsg2" style="flex-direction: row; justify-content: center; align-items: center; display: none;">
+        <ui:VisualElement class="errorIcn" style="background-image: url(&apos;project://database/Assets/Editor%20Default%20Resources/Nullframes/Icons/error.png?fileID=2800000&amp;guid=1924489d71a17e84d8fe5e98adc9805d&amp;type=3#error&apos;); width: 32px; height: 32px; flex-direction: column;" />
+        <ui:Label text="Is empty.." display-tooltip-when-elided="true" style="margin-left: 5px; -unity-font-style: bold; font-size: 14px;" />
+    </ui:VisualElement>
+    <ui:ScrollView name="scrollView" horizontal-scroller-visibility="Hidden" vertical-scroller-visibility="Auto" class="scrollView">
+        <ui:VisualElement name="categoryField" class="categoryField" style="display: flex;">
+            <ui:VisualElement name="foldButton" class="foldoutIcon" />
+            <ui:Label text="Category" display-tooltip-when-elided="true" enable-rich-text="true" name="categoryLabel" class="categoryLabel" />
+        </ui:VisualElement>
+        <ui:VisualElement name="assetField" class="assetField" style="display: flex;">
+            <ui:VisualElement name="asset" class="assetPreview" style="display: flex;">
+                <ui:Label text="Label" display-tooltip-when-elided="true" class="tagLabel" />
+                <ui:Label text="Label" display-tooltip-when-elided="true" class="tagLabel" />
+                <ui:Label text="Label" display-tooltip-when-elided="true" class="assetLabel" />
+                <ui:TextField picking-mode="Ignore" text="New Tag" is-delayed="false" max-length="16" class="tagField" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:ScrollView>
+    <ui:ScrollView name="tagList" mode="Horizontal" horizontal-scroller-visibility="Auto" vertical-scroller-visibility="Hidden" class="footer" />
+</ui:UXML>
