@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Node_Phone_Trigger
   nodeID: Node_Phone_Trigger
   speakerName: MC
-  dialogueText: "This sounds really—" *BUZZ BUZZ* "Oh, sorry, my phone's going off."
+  dialogueText: "This sounds really— *BUZZ BUZZ* Oh, sorry, my phone's going off."
   characterExpression: Neutral
   choices: []
   isAutomatic: 1

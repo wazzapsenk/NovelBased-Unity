@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afb43f5570f8efd43b104e16e680ed3b, type: 3}
+  m_Name: CollegeChronicles_DialogueDatabase
+  m_EditorClassIdentifier: 
+  characters:
+  - {fileID: 11400000, guid: 98788411a9f8d374f92b08a829c219e2, type: 2}
+  - {fileID: 11400000, guid: 56821a09e68155f4eba25973db014200, type: 2}
+  - {fileID: 11400000, guid: 9cc82fba28be50646bf8707a533c0b9b, type: 2}
+  - {fileID: 11400000, guid: e49c3c0fd8142214a81c3b54ceb621f1, type: 2}
+  dialogueNodes:
+  - {fileID: 11400000, guid: b1b0fc9b2fa80c94c878fd4fe750801f, type: 2}
+  - {fileID: 11400000, guid: e3e35dcd6483b8c4780f5196af287fbc, type: 2}
+  - {fileID: 11400000, guid: 296cc37c53ad87443baef3d4a5857cba, type: 2}
+  - {fileID: 11400000, guid: 16f736033b3c00746980d24508f0fe21, type: 2}
+  - {fileID: 11400000, guid: 01e4cb6e2c47ee34086cd608fa544eab, type: 2}
+  - {fileID: 11400000, guid: edcaa5f5d85264e41ae7ee99311b58f6, type: 2}
+  - {fileID: 11400000, guid: 02d9085ddf503cb42b663f6e27c340a3, type: 2}
+  - {fileID: 11400000, guid: c9e38c24573cfbd4d95c8317313d7388, type: 2}
+  - {fileID: 11400000, guid: b62a37c680df62b47a7e9212deaac538, type: 2}
+  - {fileID: 11400000, guid: 2ebbe342c55879542a8902058f54d0ec, type: 2}
+  - {fileID: 11400000, guid: efe755bb71b03714782af1282ec51abb, type: 2}
+  - {fileID: 11400000, guid: 98fdc30c41d30874bb58e8e1bfd4b569, type: 2}
+  - {fileID: 11400000, guid: d438fa0c443156d4891ead7d1e60a7f0, type: 2}
+  - {fileID: 11400000, guid: 5d4a7fa317fcfdd4f99eff1c86e309a1, type: 2}
+  - {fileID: 11400000, guid: b808f2421e9564442891bcdce35a226e, type: 2}
+  - {fileID: 11400000, guid: 2955092fff10f9c4c9f2a39adaff8699, type: 2}
+  - {fileID: 11400000, guid: 06a6d06dc39599a489aa966b669885c7, type: 2}
+  - {fileID: 11400000, guid: f29c701ff8eab7b46bdd01695835235a, type: 2}
+  - {fileID: 11400000, guid: 532a65fce62fc844f9c62f3970bfe69d, type: 2}
+  choices:
+  - {fileID: 11400000, guid: 644e7235ef2b9394d8390a3edfaf4cbf, type: 2}
+  - {fileID: 11400000, guid: f22119554100c10438ed6683fccbe3a0, type: 2}
+  - {fileID: 11400000, guid: 8fd245756d83a6148b1be97b260d6f1a, type: 2}
+  - {fileID: 11400000, guid: 79c84f2e4e57a1141a98a9d7096090b6, type: 2}
+  - {fileID: 11400000, guid: 1d699e8eaee927b4aa02a435e6c391bb, type: 2}
+  - {fileID: 11400000, guid: a7bb6f65eba89c84481d50671a75d588, type: 2}
+  - {fileID: 11400000, guid: f8b28eb6f0b22f740898c5278705f90a, type: 2}
+  - {fileID: 11400000, guid: db2329131526bb54187ef43778de34bc, type: 2}
+  introductionNode: {fileID: 11400000, guid: 2ebbe342c55879542a8902058f54d0ec, type: 2}
+  campusQuadNode: {fileID: 11400000, guid: d438fa0c443156d4891ead7d1e60a7f0, type: 2}
