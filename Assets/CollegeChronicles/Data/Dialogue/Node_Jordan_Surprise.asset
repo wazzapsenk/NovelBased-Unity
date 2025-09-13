@@ -11,13 +11,15 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4dd9bf38875d8e4f915fede217d7ea4, type: 3}
   m_Name: Node_Jordan_Surprise
+  m_EditorClassIdentifier: 
   nodeID: Node_Jordan_Surprise
   speakerName: Jordan
-  dialogueText: "Alex! I didn't expect to see you here. This spontaneous dance gathering is... highly irregular. Though I admit, the rhythm is mathematically interesting."
+  dialogueText: Alex! I didn't expect to see you here. This spontaneous dance gathering
+    is... highly irregular. Though I admit, the rhythm is mathematically interesting.
   characterExpression: Neutral
   choices: []
   isAutomatic: 1
-  nextNode: {fileID: 0}
+  nextNode: {fileID: 11400000, guid: b1b0fc9b2fa80c94c878fd4fe750801f, type: 2}
   triggerPhoneNotification: 0
   startFreeRoam: 0
   startMinigame: 0

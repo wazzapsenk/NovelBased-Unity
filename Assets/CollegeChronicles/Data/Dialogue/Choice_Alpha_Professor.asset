@@ -11,12 +11,13 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1c25690dd44f2bd4f9c13206383f9ae8, type: 3}
   m_Name: Choice_Alpha_Professor
+  m_EditorClassIdentifier: 
   choiceID: Choice_Alpha_Professor
-  choiceText: "Lead the way. I like intense professors - they push you to excel."
+  choiceText: Lead the way. I like intense professors - they push you to excel.
   personalityImpact:
     alphaPointChange: 1
     betaPointChange: 0
-  nextDialogueNode: {fileID: 0}
+  nextDialogueNode: {fileID: 11400000, guid: 2955092fff10f9c4c9f2a39adaff8699, type: 2}
   requiredAlphaScore: 0
   requiredBetaScore: 0
   isAlwaysAvailable: 1

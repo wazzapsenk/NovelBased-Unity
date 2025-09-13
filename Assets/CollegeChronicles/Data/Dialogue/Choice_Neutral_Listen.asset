@@ -11,12 +11,13 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1c25690dd44f2bd4f9c13206383f9ae8, type: 3}
   m_Name: Choice_Neutral_Listen
+  m_EditorClassIdentifier: 
   choiceID: Choice_Neutral_Listen
-  choiceText: "Cool, what did you have in mind?"
+  choiceText: Cool, what did you have in mind?
   personalityImpact:
     alphaPointChange: 0
     betaPointChange: 0
-  nextDialogueNode: {fileID: 0}
+  nextDialogueNode: {fileID: 11400000, guid: efe755bb71b03714782af1282ec51abb, type: 2}
   requiredAlphaScore: 0
   requiredBetaScore: 0
   isAlwaysAvailable: 1

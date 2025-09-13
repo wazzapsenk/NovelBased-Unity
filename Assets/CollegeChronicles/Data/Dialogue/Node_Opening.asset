@@ -11,13 +11,16 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4dd9bf38875d8e4f915fede217d7ea4, type: 3}
   m_Name: Node_Opening
+  m_EditorClassIdentifier: 
   nodeID: Node_Opening
   speakerName: Narrator
-  dialogueText: "First week of college at Riverside University. Your dorm room still smells like fresh paint and possibility. A stack of textbooks sits on your desk, and your phone buzzes with notifications from classmates you barely know."
+  dialogueText: First week of college at Riverside University. Your dorm room still
+    smells like fresh paint and possibility. A stack of textbooks sits on your desk,
+    and your phone buzzes with notifications from classmates you barely know.
   characterExpression: Neutral
   choices: []
   isAutomatic: 1
-  nextNode: {fileID: 0}
+  nextNode: {fileID: 11400000, guid: 01e4cb6e2c47ee34086cd608fa544eab, type: 2}
   triggerPhoneNotification: 0
   startFreeRoam: 0
   startMinigame: 0

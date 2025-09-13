@@ -11,13 +11,15 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4dd9bf38875d8e4f915fede217d7ea4, type: 3}
   m_Name: Node_Phone_Trigger
+  m_EditorClassIdentifier: 
   nodeID: Node_Phone_Trigger
   speakerName: MC
-  dialogueText: "This sounds really— *BUZZ BUZZ* Oh, sorry, my phone's going off."
+  dialogueText: "This sounds really\u2014 *BUZZ BUZZ* Oh, sorry, my phone's going
+    off."
   characterExpression: Neutral
   choices: []
   isAutomatic: 1
-  nextNode: {fileID: 0}
+  nextNode: {fileID: 11400000, guid: e3e35dcd6483b8c4780f5196af287fbc, type: 2}
   triggerPhoneNotification: 1
   startFreeRoam: 0
   startMinigame: 0

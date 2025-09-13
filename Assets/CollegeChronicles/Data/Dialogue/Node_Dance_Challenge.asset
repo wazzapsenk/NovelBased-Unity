@@ -11,11 +11,15 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4dd9bf38875d8e4f915fede217d7ea4, type: 3}
   m_Name: Node_Dance_Challenge
+  m_EditorClassIdentifier: 
   nodeID: Node_Dance_Challenge
   speakerName: Narrator
-  dialogueText: "A group of upperclassmen are showcasing their dance moves, challenging newcomers to match their rhythm. Jordan looks both fascinated and terrified."
+  dialogueText: A group of upperclassmen are showcasing their dance moves, challenging
+    newcomers to match their rhythm. Jordan looks both fascinated and terrified.
   characterExpression: Neutral
-  choices: []
+  choices:
+  - {fileID: 11400000, guid: 8fd245756d83a6148b1be97b260d6f1a, type: 2}
+  - {fileID: 11400000, guid: a7bb6f65eba89c84481d50671a75d588, type: 2}
   isAutomatic: 0
   nextNode: {fileID: 0}
   triggerPhoneNotification: 0

@@ -11,13 +11,16 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4dd9bf38875d8e4f915fede217d7ea4, type: 3}
   m_Name: Node_MC_Reflection
+  m_EditorClassIdentifier: 
   nodeID: Node_MC_Reflection
   speakerName: MC
-  dialogueText: "Okay, Alex. This is it. Time to figure out who you're going to be in college. High school feels like a lifetime ago, but here... here I can be anyone I want."
+  dialogueText: Okay, Alex. This is it. Time to figure out who you're going to be
+    in college. High school feels like a lifetime ago, but here... here I can be
+    anyone I want.
   characterExpression: Neutral
   choices: []
   isAutomatic: 1
-  nextNode: {fileID: 0}
+  nextNode: {fileID: 11400000, guid: b808f2421e9564442891bcdce35a226e, type: 2}
   triggerPhoneNotification: 0
   startFreeRoam: 0
   startMinigame: 0

@@ -11,11 +11,17 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4dd9bf38875d8e4f915fede217d7ea4, type: 3}
   m_Name: Node_Jordan_Appears
+  m_EditorClassIdentifier: 
   nodeID: Node_Jordan_Appears
   speakerName: Jordan
-  dialogueText: "Alex Chen? I'm Jordan Kim from your Economics class. I wanted to discuss the group project Professor Davis assigned. I've already outlined a preliminary strategy."
+  dialogueText: Alex Chen? I'm Jordan Kim from your Economics class. I wanted to
+    discuss the group project Professor Davis assigned. I've already outlined a preliminary
+    strategy.
   characterExpression: Neutral
-  choices: []
+  choices:
+  - {fileID: 11400000, guid: 644e7235ef2b9394d8390a3edfaf4cbf, type: 2}
+  - {fileID: 11400000, guid: 79c84f2e4e57a1141a98a9d7096090b6, type: 2}
+  - {fileID: 11400000, guid: db2329131526bb54187ef43778de34bc, type: 2}
   isAutomatic: 0
   nextNode: {fileID: 0}
   triggerPhoneNotification: 0
